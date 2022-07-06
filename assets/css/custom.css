@@ -1,12 +1,4 @@
     /* Carga de fuentes */
-    @font-face {
-        font-family: ProximaNova-Reg;
-        src: url(../fonts/ProximaNova-Reg.ttf);
-    }
-    @font-face {
-        font-family: ProximaNova-Bold;
-        src: url(../fonts/ProximaNova-Bold.ttf);
-    }
     @font-face{
       font-family: AdelleSans-Reg;
         src: url(../fonts/AdelleSans/AdelleSans-Regular.otf);
