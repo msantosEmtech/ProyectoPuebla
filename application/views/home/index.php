@@ -5,12 +5,12 @@
                 <div class="row flex-md-row align-items-center">
                     <div class="col-md-12">
                         <div class="banner-left" style="padding-left: 2rem;">
-                            <h1>Programa de Experiencias<br>de Aprendizaje Híbrido </h1>
-                            <h3 class="pt-3 pb-3 font-Novreg">
-                            Inicia la transformación de programas educativos <br>tradicionales a Experiencias de Aprendizaje Híbrido. 
+                            <h1 style="text-shadow: 0px 4px 4px rgba(0, 0, 0, 0.5);">Programa de Programación<br> WEB para Jóvenes</h1>
+                            <h3 class="pt-3 pb-3 font-Novreg" style="text-shadow: 0px 4px 4px rgba(0, 0, 0, 0.6);">
+                                Inicia tu camino en el desarrollo de páginas web adecuadas a las<br> necesidades del mercado y con las tendencias de trabajo más actuales.
                             </h3>                          
                             <div id="btnBanner">
-                                <a class="btn btn-rojo" href="#especialidades">Ver especialidades</a>
+                                <a class="btn btn-rojo" href="#especialidades">Aplicar ahora</a>
                             </div>
                         </div>
                     </div>
@@ -26,14 +26,7 @@
                     </div>
                     <div class=" col-lg-12">
                         <h4 class="font-Novreg" style="color:#212424">
-                            <span class="font-Novbold" >Las universidades están migrando</span> de un modelo educativo presencial basado en el campus, a un modelo <br>híbrido centrado en el estudiante, que recibe su formación con componentes <span class="font-Novbold">presenciales y digitales.</span>
-                            <br>
-                            <br>
-                            Este nuevo modelo implica <span class="font-Novbold">rediseñar y actualizar las competencias</span> de las Instituciones de educación superior <br>para ampliar el alcance de sus programas educativos. 
-                            <br>
-                            <br>
-                            Con este programa, formaremos a los líderes que requieren las universidades y los capacitaremos para <span class="font-Novbold">diseñar,<br> planear, producir y ejecutar</span> programas de Aprendizaje Híbrido, con los mejores estándares internacionales.
-                            <br>
+                            El cambio de mentalidad llegó para quedarse y cada vez más existen nuevas metodologías que desafían a los<br> esquemas tradicionales de trabajo y se adaptan a las tendencias que nos propone el mundo actual. <span class="font-Novbold">Con este</span><br> <span class="font-Novbold">Programa del Gobierno de Puebla y Emtech podrás conocer desde cero los modelos y las herramientas más <br> innovadoras aplicadas en la actualidad</span>  para crear de manera ordenada y lógica páginas web orientadas a las<br> necesidades del mercado actual.
                         </h4>
                     </div>
                 </div> 
@@ -42,7 +35,7 @@
         <section class="more-features-area pb-80 bg-white">
             <div class="container">
                 <div class="pt-5 text-center">
-                    <h2 style="color:#050505;">Beneficios exclusivos del programa</h2>
+                    <h2  class="font-Novbold" style="color:#050505;">Beneficios exclusivos del programa</h2>
                     <br>  
                 </div>
                 <div class="row content pt-5 text-center equal-cols">
@@ -50,7 +43,7 @@
                         <div class="card detalles-card" style="border-radius: 0.75rem;border: none;box-shadow: rgba(149, 157, 165, 0.2) 0px 8px 24px;">
                             <div class="card-body">
                                 <img class="pt-2 pb-3 mx-auto d-block" id="iconModulo1" style="cursor: pointer;width: 100px;" src="<?=base_url('assets/images/iconHome1.svg')?>" alt="Icono" width = "100"/>
-                                <p style="line-height:115%;"><span class="font-Novbold" style="color: #BB9F79;font-size: 18px;">Aprendizaje User-Centered<br></span><br><br>Por medio de metodologías de diseño de <br> programas e implementación centrado en el <br> usuario, personalizamos el proceso de<br> enseñanza enfocado a las necesidades de<br> cada estudiante.<br><br><br></p>
+                                <p style="line-height:115%;"><span class="font-Novbold" style="color: #BB9F79;font-size: 18px;">Aprendizaje User-Centered<br></span><br><br>Un conjunto de expertos en diversas materias han desarrollado estos programas para llevarte de la mano por medio de videos explicativos y actividades aplicables a desarrollar tu primer página web.<br><br><br></p>
                             </div>
                         </div>
                     </div>
@@ -58,7 +51,7 @@
                         <div class="card detalles-card" style="border-radius: 0.75rem;border: none;box-shadow: rgba(149, 157, 165, 0.2) 0px 8px 24px;">
                             <div class="card-body">
                                 <img class="pt-2 pb-3 mx-auto d-block" id="iconModulo1" style="cursor: pointer;width: 100px;" src="<?=base_url('assets/images/iconHome1.svg')?>" alt="Icono" width = "100"/>
-                                <p style="line-height:115%;"><span class="font-Novbold" style="color: #BB9F79;font-size: 18px;">Calidad educativa con bajos costos operativos<br></span><br>Transforma la visión de los programas<br> educativos tradicionales hacia una visión<br>digital que incluya contenido audiovisual<br>e interactivo junto con el acompañamiento<br>de mentores y tutores, logrando una mayor<br> rentabilidad y escalabilidad en la<br> implementación de programas.</p>
+                                <p style="line-height:115%;"><span class="font-Novbold" style="color: #BB9F79;font-size: 18px;">Calidad educativa al alcance de tus manos<br></span><br>Este programa esta a un cuestionario de<br> poder impulsar tu carrera pues te<br> proporcionará la oportunidad de conocer<br> las tecnologías que están cambiando al<br> mundo, y las bases para convertirte en un<br> desarrollador web desarrollando proyectos<br> de manera ágil y ordenada. </p>
                             </div>
                         </div>
                     </div>
@@ -85,10 +78,11 @@
         <section class="more-features-area pb-80 bg-white">
             <div class="container">
                 <div class="col-lg-12 text-center" style="padding-top: 5rem;">
-                    <h4 class="font-Novreg" style="color:#212424">Es un curso Híbrido con contenidos en video y sesiones asíncronas con tutores<br> especializados en los temas. Cada curso tiene un proyecto y casos que puedes aplicar a tu<br> vida profesional.Es un curso Híbrido con contenidos en video y sesiones asíncronas con<br> tutores especializados en los temas. </h4>
+                    <h4 class="font-Novreg" style="color:#212424">En este curso de modalidad híbrida disfrutarás <span class="font-Novbold">lo mejor de dos mundos en cuanto<br> enseñanza:</span> por una parte, contarás con videos y lecciones grabadas explicativas para<br> profundizar tu conocimiento, mientras que con sesiones asíncronas, de la mano de un tutor<br> podrás despejar todas tus dudas y tener una experiencia más personalizada.</h4>
                 </div>
+                <br>
                 <div class="pt-5 text-center">
-                    <h2 style="color:#050505;">¿Nuestro Programa Lorem ipsum dolor sit amet consectetur, adipisicing elit. Deserunt, aperiam maiores</h2>
+                    <h2 style="color:#050505;">Nuestro Programa de Programación WEB para Jóvenes está diseñado especialmente para<br> personas que desean crear páginas web de alta calidad y organización junto a sus clientes.</h2>
                     <br>  
                 </div>
                 <div id="programas" class="row content pt-5 text-center equal-cols">
@@ -109,7 +103,7 @@
                     </div>
                     <div class="col-md-4 col-sm-6 col-xs-6 pb-2">
                         <div class="welcome-box">
-                            <img src="<?= base_url('assets/images/welcome1.jpg') ?>" alt="welcome1" width="370" height="320"/>
+                            <img src="<?= base_url('assets/images/welcome2.jpg') ?>" alt="welcome1" width="370" height="320"/>
                             <div class="welcome-title">
                                 <h3>Desarrollo Web</h3>
                             </div>	
@@ -124,7 +118,7 @@
                     </div>
                     <div class="col-md-4 col-sm-6 col-xs-6 pb-2">
                         <div class="welcome-box">
-                            <img src="<?= base_url('assets/images/welcome1.jpg') ?>" alt="welcome1" width="370" height="320"/>
+                            <img src="<?= base_url('assets/images/welcome3.jpg') ?>" alt="welcome1" width="370" height="320"/>
                             <div class="welcome-title">
                                 <h3>Digitalización de empresas</h3>
                             </div>	
@@ -140,64 +134,45 @@
                 </div>
             </div>
         </section>
-        <section class="pt-5 pb-80">
-            <div class="container">
-                <div class="row">
-                    <div class="col-md-12">
-                        <h2 class="text-center" style="color: #050505;"><b>Descubre los elementos que conforman el programa</b></h2>
+        <section id="aprenderas" class="more-features-area pb-80 bg-white wow fadeInUp animate__fast bg-white">
+            <div class="container-fluid">
+                <div class="row align-items-center flex-column-reverse flex-lg-row text-center">
+                    <div class="col-lg-12">
+                        <h2 class="font-Novbold banner-descripcion" style="color:#050505">
+                            Descubre los elementos que conforman el programa                       
+                        </h2>
                     </div>
                 </div>
-                <br>
-                <div class="row g-4 py-5 row-cols-1 row-cols-lg-3">
-                    <div class="col">
-                        <div class="iconoElemento" style="margin-left: 9rem;">
-                            <img src="<?= base_url('assets/images/iconMonitor.svg') ?>" width="90rem">
-                        </div>
-                        <div class="container text-center">
-                            <p>Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.</p>
-                        </div>
+                
+                <div class="row pt-5 text-center">
+                    
+                    <div class="col-lg-1 col-md-1 col-xs-12"></div>
+                    <div class="col-lg-2 col-md-2 col-xs-6">
+                        <img class="pt-2 mx-auto d-block" src="<?= base_url('assets/images/iconPrograma1.svg') ?>" alt="Icono" width = "100"/>
+                        <span class="font-Novbold" style="color: #BB9F79;font-size: 18px;">Acompañamiento<br> de tutores<br></span>
+                        <p>Expertos que estarán durante<br> todo el proceso para<br> responder todas las dudas.</p>
                     </div>
-                    <div class="col">
-                        <div class="iconoElemento" style="margin-left: 9rem;">
-                            <img src="<?= base_url('assets/images/iconMonitor.svg') ?>" width="90rem">
-                        </div>
-                        <div class="container text-center">
-                            <p>Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.</p>
-                        </div>
-                    </div>
-                    <div class="col">
-                        <div class="iconoElemento" style="margin-left: 9rem;">
-                            <img src="<?= base_url('assets/images/iconMonitor.svg') ?>" width="90rem">
-                        </div>
-                        <div class="container text-center">
-                            <p>Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.</p>
-                        </div>
-                    </div>
-                </div>
-                <div class="row g-4 py-5 row-cols-1 row-cols-lg-3">
-                    <div class="col">
-                        <div class="iconoElemento" style="margin-left: 9rem;">
-                            <img src="<?= base_url('assets/images/iconMonitor.svg') ?>" width="90rem">
-                        </div>
-                        <div class="container text-center">
-                            <p>Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.</p>
-                        </div>
-                    </div>
-                    <div class="col">
-                        <div class="iconoElemento" style="margin-left: 9rem;">
-                            <img src="<?= base_url('assets/images/iconMonitor.svg') ?>" width="90rem">
-                        </div>
-                        <div class="container text-center">
-                            <p>Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.</p>
-                        </div>
-                    </div>
-                    <div class="col">
-                        <div class="iconoElemento" style="margin-left: 9rem;">
-                            <img src="<?= base_url('assets/images/iconMonitor.svg') ?>" width="90rem">
-                        </div>
-                        <div class="container text-center">
-                            <p>Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.</p>
-                        </div>
+                    <div class="col-lg-2 col-md-2 col-xs-6">
+                        <img class="pt-2 mx-auto d-block" src="<?= base_url('assets/images/iconPrograma2.svg') ?>" alt="Icono" width = "100"/>
+                        <span class="font-Novbold" style="color: #BB9F79;font-size: 18px;">Material<br> bibliográfico<br></span>
+                        <p>Recursos de alta calidad<br> disponibles para<br> complementar el aprendizaje.</p>
+                    </div>   
+                    <div class="col-lg-2 col-md-2 col-xs-6">
+                        <img class=" pt-2 mx-auto d-block" src="<?= base_url('assets/images/iconPrograma3.svg') ?>" alt="Icono" width = "100"/>
+                        <br>
+                        <span class="font-Novbold" style="color: #BB9F79;font-size: 18px;">Sesiones grabadas<br></span>
+                        <p>Videos explicativos para<br> verlos cuántas veces<br> sean necesarias.</p>
+                    </div>                    
+                    <div class="col-lg-2 col-md-2 col-xs-6">
+                        <img class=" pt-2 mx-auto d-block" src="<?= base_url('assets/images/iconPrograma4.svg') ?>" alt="Icono" width = "100"/>
+                        <br>
+                        <span class="font-Novbold" style="color: #BB9F79;font-size: 18px;">Foros de discusión<br></span>
+                        <p>Espacios de debate y<br> experiencias de los<br> estudiantes y expertos.</p>
+                    </div>                    
+                    <div class="col-lg-2 col-md-2 col-xs-12">
+                        <img class=" pt-2 mx-auto d-block" src="<?= base_url('assets/images/iconPrograma5.svg') ?>" alt="Icono" width = "100"/>
+                        <span class="font-Novbold" style="color: #BB9F79;font-size: 18px;">Comunidad con tus<br>mismos intereses<br></span>
+                        <p>Estudiantes con<br> motivaciones y objetivos<br> comunes.</p>
                     </div>
                 </div>
             </div>
@@ -206,44 +181,44 @@
             <div class="container">
                 <div class="row">
                     <div class="col-md-12">
-                        <h2 class="text-center" style="color: #050505;"><b>Al finalizar el programa el estudiante seá capaz de</b></h2>
+                        <h2 class="py-5 text-center font-Novbold" style="color: #050505;">Al finalizar el programa el estudiante será capaz de</h2>
                     </div>
                 </div>
                 <div class="container-fluid row g-4 py-5 row-cols-1 row-cols-lg-4">
                     <div class="col">
                         <div class="iconoBeneficio pb-3" style="margin-left: 5rem;">
-                            <img src="<?= base_url('assets/images/circuloBeneficios.svg') ?>" width="90rem">
+                            <img src="<?= base_url('assets/images/circuloBeneficio1.svg') ?>" width="90rem">
                         </div>
                         <div class="text-center">
-                        <span class="font-Novbold" style="color: #BB9F79;font-size: 18px;">Lorem ipsum dolor sit</span>
-                            <p>Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.</p>
+                            <span class="font-Novbold" style="color: #BB9F79;font-size: 18px;">Trabajar con<br> metodologías ágiles<br></span>
+                            <p>Sabrá ver los beneficios de nuevas<br> herramientas para llevarlas a cabo<br> en su proyecto.</p>
                         </div>
                     </div>
                     <div class="col">
                         <div class="iconoBeneficio pb-3" style="margin-left: 5rem;">
-                            <img src="<?= base_url('assets/images/circuloBeneficios.svg') ?>" width="90rem">
+                            <img src="<?= base_url('assets/images/circuloBeneficio2.svg') ?>" width="90rem">
                         </div>
                         <div class="text-center">
-                            <span class="font-Novbold" style="color: #BB9F79;font-size: 18px;">Lorem ipsum dolor sit</span>
-                            <p>Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.</p>
+                            <span class="font-Novbold" style="color: #BB9F79;font-size: 18px;">Identificar tecnologías<br> emergentes</span>
+                            <p>Conocerá cuáles son las tendencias<br> y cómo las empresas las<br> están aplicando.</p>
                         </div>
                     </div>
                     <div class="col">
                         <div class="iconoBeneficio pb-3" style="margin-left: 5rem;">
-                            <img src="<?= base_url('assets/images/circuloBeneficios.svg') ?>" width="90rem">
+                            <img src="<?= base_url('assets/images/circuloBeneficio3.svg') ?>" width="90rem">
                         </div>
                         <div class="text-center">
-                            <span class="font-Novbold" style="color: #BB9F79;font-size: 18px;">Lorem ipsum dolor sit</span>
-                            <p>Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.</p>
+                            <span class="font-Novbold" style="color: #BB9F79;font-size: 18px;">Crear un sitio web<br><br></span>
+                            <p>Aplicar conocimientos básicos<br> para la contrucción de una<br> página básica.</p>
                         </div>
                     </div>
                     <div class="col">
                         <div class="iconoBeneficio pb-3" style="margin-left: 5rem;">
-                            <img src="<?= base_url('assets/images/circuloBeneficios.svg') ?>" width="90rem">
+                            <img src="<?= base_url('assets/images/circuloBeneficio4.svg') ?>" width="90rem">
                         </div>
                         <div class="text-center">
-                            <span class="font-Novbold" style="color: #BB9F79;font-size: 18px;">Lorem ipsum dolor sit</span>
-                            <p>Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.</p>
+                            <span class="font-Novbold" style="color: #BB9F79;font-size: 18px;">Entender lenguaje <br>de programación</span>
+                            <p>Comprenderá los elementos claves  a través de lenguajes como HTML, CSS<br> y JavaScript.</p>
                         </div>
                     </div>
                 </div>
@@ -269,7 +244,7 @@
                 <div class="row">
                     <div class="col-md-12">
                         <div class="pb-5 row text-center wow fadeInUp">
-                            <h2 style="color:#050505;">Este programa es una iniciativa de  amet, consectetur adipiscing elit, sed do eiu , sed do eiusmod<br> tempor incididunt ut labore et dolore magna aliqua.</h2>
+                            <h2 style="color:#050505;">Este programa es una iniciativa del Gobierno de Puebla junto a EmTech Institute para promover el desarrollo de talento través de las tecnologías emergentes y el desarrollo de habilidades tecnológicas transversales.</h2>
                         <br>  
                         </div>
                         <div class="row content pt-3 text-center equal-cols">

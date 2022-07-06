@@ -7,6 +7,14 @@
         font-family: ProximaNova-Bold;
         src: url(../fonts/ProximaNova-Bold.ttf);
     }
+    @font-face{
+      font-family: AdelleSans-Reg;
+        src: url(../fonts/AdelleSans/AdelleSans-Regular.otf);
+    }
+    @font-face{
+      font-family: AdelleSans-Bold;
+        src: url(../fonts/AdelleSans/AdelleSans-Bold.otf);
+    }
 
     /*  Quitar margen */
   body,
@@ -83,7 +91,7 @@
     }
   
   body {
-    font-family: "ProximaNova-Reg", sans-serif;
+    font-family: "AdelleSans-Reg", sans-serif;
     font-weight: 400;
     font-size: .9rem;
     line-height: 1.75rem;
@@ -92,15 +100,15 @@
   }
 
   .font-poppins {
-    font-family: "ProximaNova-Reg", sans-serif;
+    font-family: "AdelleSans-Reg", sans-serif;
   }
   
   .font-Novbold{
-    font-family: "ProximaNova-Bold", sans-serif;
+    font-family: "AdelleSans-Bold", sans-serif;
   }
   
   .font-Novreg{
-    font-family: "ProximaNova-Reg", sans-serif;
+    font-family: "AdelleSans-Reg", sans-serif;
   }
 
   .site-header {
@@ -114,7 +122,7 @@
   }
   .site-header a:hover {
     color: #000000;
-    font-family: 'ProximaNova-Bold';
+    font-family: 'AdelleSans-Bold';
     text-decoration: none;
   }
 
@@ -211,14 +219,14 @@
     padding-top: 1.75rem;
     padding-bottom: 0.625rem;
     color:#fff;
-    font-family: "ProximaNova-Reg", sans-serif;
+    font-family: "AdelleSans-Reg", sans-serif;
     font-size:40px;
     letter-spacing: 1.3px;
     line-height: 46px;
   }
   
   .banner-area .banner-left .banner-descripcion {
-    font-family: "ProximaNova-Reg", sans-serif;
+    font-family: "AdelleSans-Reg", sans-serif;
     line-height: 1.1;
     padding: 2rem 0px 4rem 0px;
   }
@@ -234,7 +242,7 @@
     letter-spacing: 1.8999999762px;
   }
   .banner-area-2 .banner-left P {
-    font-family: "ProximaNova-Reg", sans-serif;
+    font-family: "AdelleSans-Reg", sans-serif;
     font-size: 40px;
     font-weight: 400;
     line-height: 32px;
@@ -264,7 +272,7 @@
   .banner-area-3 .banner-left P {
     font-size: 17px;
     line-height: 28px;
-    font-family: "ProximaNova-Reg", sans-serif;
+    font-family: "AdelleSans-Reg", sans-serif;
     font-weight: 400;
     color: #4f4f4f;
     margin: 30px 0 42px 0;
@@ -414,7 +422,7 @@
     color: #fff;
     box-shadow: none !important;
     padding: 0.4125rem 1rem;
-    font-family: 'ProximaNova-Bold';
+    font-family: 'AdelleSans-Bold';
   }
   .btn-rojo-corto:hover {
     color: #414142;
@@ -427,7 +435,7 @@
     color: #fff;
     box-shadow: none !important;
     padding: 0.4125rem 1rem;
-    font-family: 'ProximaNova-Reg';
+    font-family: 'AdelleSans-Reg';
   }
   .btn-rojo-dct:hover {
     color: #414142;
@@ -440,14 +448,14 @@
     color: #fff;
     box-shadow: none !important;
     padding: 0.4125rem 1rem;
-    font-family: 'ProximaNova-Bold';
+    font-family: 'AdelleSans-Bold';
   }
   .btn-rojo-folleto:hover {
     color: #414142;
     background: #DBDEE6;
   }
   .pricing-banner .section-title-center h1 {
-    font-family: 'ProximaNova-Reg';
+    font-family: 'AdelleSans-Reg';
     font-size: 75px;
   }
   @media screen and (min-width: 425px) {
@@ -484,7 +492,7 @@
     font-weight: 700;
   }
   .user-area .custom-row h3 {
-    font-family: "ProximaNova-Reg", sans-serif;
+    font-family: "AdelleSans-Reg", sans-serif;
     font-size: 40px;
     font-weight: 700;
     line-height: 55px;
@@ -498,7 +506,7 @@
     color: #fff;
   }
   .features-content h3 {
-    font-family: "ProximaNova-Reg", sans-serif;
+    font-family: "AdelleSans-Reg", sans-serif;
     font-weight: 400;
     padding-top: 1.125rem;
   }
@@ -522,7 +530,6 @@
     font-weight: 700;
   }
   .titulo-rojo{
-
     color: rgba(96, 33, 51, 1);
   }
 
@@ -642,7 +649,7 @@
 }
 .welcome-content{
 	background-color: #992740;
-    border-right: 2px solid #602133;
+    border-right: 8px solid #602133;
     left: 0;
     margin-right: 80px;
     padding-bottom: 20px;
@@ -678,7 +685,7 @@
 	top: 0;
 	background-color: #992740;
 	display: inline-block;
-	border-right: 2px solid #602133;
+	border-right: 8px solid #602133;
 }
 .welcome-title h3{
 	position: relative;
@@ -687,7 +694,7 @@
 	text-transform: capitalize;
 	line-height: 24px;
 	letter-spacing: 0.48px;
-	font-family: 'ProximaNova-Bold';
+	font-family: 'AdelleSans-Bold';
 	padding-left: 0px;
 	padding-top: 25px;
 	padding-bottom: 25px;
@@ -1055,7 +1062,7 @@
 }
 .descripcionTarjeta{
   text-align: center;
-  font-family: 'ProximaNova-Bold';
+  font-family: 'AdelleSans-Bold';
 }
 .tarjeta-pasos {
   border-left: 8px solid #BB9F79;
@@ -1114,4 +1121,9 @@
   color: #BB9F79;
   background-color: #f5efe5;
   box-shadow: inset 0 -1px 0 rgb(0 0 0 / 13%);
+}
+.btn-alt-secondary{
+  color: rgb(255, 255, 255) !important;
+  background-color: rgba(187, 159, 121, 1) !important;
+  border-color: rgba(187, 159, 121, 1) !important;
 }

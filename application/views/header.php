@@ -23,6 +23,9 @@
         <ul class="nav nav-pills">
             <li class="nav-item"><a href="<?= base_url('Home') ?>" class="nav-link <?= $title == "Home" ? "active" : "" ?>" aria-current="page">Home</a></li>
             <li class="nav-item"><a href="#programas" class="nav-link <?= $title != "Home" ? "active" : "" ?>">Programas</a></li>
+            <li class="nav-item">
+                <a class="nav-link btn-alt-secondary text-uppercase" href="http://localhost:8080/GobPuebla2/Login">Login</a>
+            </li>
         </ul>
         </nav>
     </header>
