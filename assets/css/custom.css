@@ -666,12 +666,12 @@
     position: absolute;
     content: "";
     left: 0;
-    right: 49px;
+    right: 75px;
     bottom: 0;
     top: 0;
     background-color: rgba(153, 39, 64, 0.95);
     display: inline-block;
-    border-right: 2px solid #602133;
+    border-right: 10px solid #602133;
   }
   .welcome-title h3{
     position: relative;
@@ -696,9 +696,9 @@
   }
   .welcome-content{
     background-color: rgba(153, 39, 64, 0.95);
-      border-right: 2px solid #602133;
+      border-right: 10px solid #602133;
       left: 0;
-      margin-right: 49px;
+      margin-right: 75px;
       padding-bottom: 5px;
       padding-left: 30px;
       padding-right: 55px;
@@ -1125,6 +1125,74 @@
 	}
 }
 .lineaBanner{
-  border: 5px solid #BB9F79;
+  border: 2px solid #BB9F79;
   width: 35rem;
+  opacity : 1;
+}
+
+
+/* Tarjetas iguales */
+.row.equal-cols {
+  display: -webkit-flex;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-flex-wrap: wrap;
+  -ms-flex-wrap: wrap;
+  flex-wrap: wrap;
+  }
+  
+  .row.equal-cols:before,
+  .row.equal-cols:after {
+  display: block;
+  }
+  
+  .row.equal-cols > [class*='col-'] {
+  display: -webkit-flex;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-flex-direction: column;
+  -ms-flex-direction: column;
+  flex-direction: column;
+  }
+  
+  .row.equal-cols > [class*='col-'] > * {
+  -webkit-flex: 1 1 auto;
+  -ms-flex: 1 1 auto;
+  flex: 1 1 auto; 
+  }
+
+
+
+@media only screen and (max-width: 600px) {
+  .tarjetas-aprende{
+    padding-left: 0rem;
+    padding-left: 0rem;
+  }
+}
+
+@media only screen and (min-width: 600px) {
+  .tarjetas-aprende{
+    padding-left: 0rem;
+    padding-right: 0rem;
+  }
+}
+
+@media only screen and (min-width: 768px) {
+  .tarjetas-aprende{
+    padding-left: 1rem;
+    padding-right: 1rem;
+  }
+}
+
+@media only screen and (min-width: 992px) {
+  .tarjetas-aprende{
+    padding-left: 12rem;
+    padding-right: 12rem;
+  }
+}
+@media only screen and (min-width: 1200px) {
+  .tarjetas-aprende{
+    padding-left: 14rem;
+    padding-right: 14rem;
+  }
 }
