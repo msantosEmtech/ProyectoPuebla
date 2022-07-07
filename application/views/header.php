@@ -17,10 +17,10 @@
     <header class="site-header sticky-top py-1">
         <nav class="container d-flex flex-column flex-md-row justify-content-between">
         <a href="<?= base_url('Home'); ?>" class="d-flex align-items-center mb-3 mb-md-0 me-md-auto text-dark text-decoration-none iconHeader">
-            <img class="imglogos" src="<?= base_url('assets/images/logo.svg') ?>" alt="logo" style="width: 4rem;">
-            <span class="fs-4"><img class="imglogos" src="<?= base_url('assets/images/letrasGobPuebla.svg') ?>" alt="logo" style="width: 4rem;"></span>
+            <!-- <img class="imglogos" src="<?= base_url('assets/images/logose.svg') ?>" alt="logo" style="width: 4rem;"> -->
+            <span class="fs-4"><img class="imglogos" src="<?= base_url('assets/images/logose.svg') ?>" alt="logo" style="width: 8.4rem;"></span>
         </a>
-        <ul class="nav nav-pills">
+        <ul class="nav nav-pills" style="padding: 1rem;">
             <li class="nav-item"><a href="<?= base_url('Home') ?>" class="nav-link <?= $title == "Home" ? "active" : "" ?>" aria-current="page">Home</a></li>
             <li class="nav-item"><a href="#programas" class="nav-link <?= $title != "Home" ? "active" : "" ?>">Programas</a></li>
             <li class="nav-item">
