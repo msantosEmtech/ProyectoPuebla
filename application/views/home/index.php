@@ -1,6 +1,6 @@
 
     <main>
-        <section class="banner-area" style="background-image: url('<?= base_url("assets/images/bannerPuebla.jpg") ?>');background-color:#F7F8FA;background-size:cover; background-repeat: no-repeat;max-height: 42rem;">
+        <section class="banner-area" style="background-image: url('<?= base_url("assets/images/bannerPuebla3.png") ?>');background-color:#F7F8FA;background-size:cover; background-repeat: no-repeat;max-height: 100rem;">
             <div class="container" style="position: relative;z-index: 1;">
                 <div class="row flex-md-row align-items-center">
                     <div class="col-md-12">
@@ -54,7 +54,7 @@
             <div class="container welcome-section">
                 <div class="section-header">
                     <div class="col-lg-12 text-center" style="padding-top: 5rem;">
-                        <h2 class="titulo-rojo">Acerca del programa</h2>
+                        <h2 class="titulo-rojo">Fórmate con nosotros</h2>
                     </div>
                     <br>
                     <div class="pt-5 text-center pb-80">
@@ -73,7 +73,7 @@
                             <div class="welcome-title">
                                 <h3>Tecnologías Emergentes</h3>
                             </div>	
-                            <div class="welcome-content">
+                            <div class="welcome-content pb-4">
                                 <span></span>
                                 <p>Conoce cómo las últimas tendencias tecnológicas están cambiando la cultura organizacional de las empresas y transformando nuestras vidas.</p>
                                 <br>
@@ -87,7 +87,7 @@
                             <div class="welcome-title">
                                 <h3>Metodologías ágiles</h3>
                             </div>	
-                            <div class="welcome-content">
+                            <div class="welcome-content pb-4">
                                 <span></span>
                                 <p>Aprende a través de los métodos que utilizan las grandes empresas del mundo cómo organizar de manera metódica un proyecto.</p>
                                 <br>
@@ -101,7 +101,7 @@
                             <div class="welcome-title">
                                 <h3>Desarrollo WEB</h3>
                             </div>	
-                            <div class="welcome-content">
+                            <div class="welcome-content pb-4">
                                 <span></span>
                                 <p>Obtén formación y conocimientos básicos de FrontEnd con lenguajes HTML, CSS y JavaScript.</p>
                                 <br>
@@ -119,7 +119,7 @@
                     <h2  class="font-Novbold" style="color:#000000;">Aprende sin barreras</h2>
                     <br>  
                 </div>
-                <div class="row content pt-5 text-center equal-cols">
+                <div class="row equal-cols content pt-5 text-center tarjetas-aprende">
                     <div class="col-md-6 pb-3" >
                         <div class="card detalles-card" style="border-radius: 0.75rem;border: none;box-shadow: rgba(149, 157, 165, 0.2) 0px 8px 24px;">
                             <div class="card-body">
@@ -154,7 +154,7 @@
                 </div>
             </div>
         </section>
-        <section class="py-5" style="background-color: #EDEDEE;">
+        <section class="pt-5" style="background-color: #EDEDEE;">
             <div class="container">
                 <div class="container-fluid row g-4 row-cols-1 row-cols-lg-4">
                     <div class="col-lg-6 col-md-6 col-xs-12">
@@ -167,8 +167,8 @@
                             conocimiento a través de:
                         </h4>
                         <br>
-                        <li class="list-group-item px-3 border-0" style="background-color: #EDEDEE;"><i class="fas fa-circle" style="color: #BB9F79;"></i><span class="font-Novbold" style="padding-left: 1rem;"> Las tendencias e innovaciones más actuales del<br> <span class="font-Novbold" style="padding-left: 2rem;">mercado laboral.</span></span></li>
-                        <li class="list-group-item px-3 border-0" style="background-color: #EDEDEE;"><i class="fas fa-circle" style="color: #BB9F79;"></i><span class="font-Novbold" style="padding-left: 1rem;"> Herramientas y tecnologías innovadoras aplicadas a<br><span class="font-Novbold" style="padding-left: 2rem;">las profesiones del presente y el futuro.</span> </span></li>
+                        <li class="list-group-item px-3 border-0" style="background-color: #EDEDEE;line-height:1.456rem"><i class="fas fa-circle" style="color: #BB9F79;"></i><span class="font-Novbold" style="padding-left: 1rem;"> Las tendencias e innovaciones más actuales del<br> <span class="font-Novbold" style="padding-left: 2rem;">mercado laboral.</span></span></li>
+                        <li class="list-group-item px-3 border-0" style="background-color: #EDEDEE;line-height:1.456rem"><i class="fas fa-circle" style="color: #BB9F79;"></i><span class="font-Novbold" style="padding-left: 1rem;"> Herramientas y tecnologías innovadoras aplicadas a<br><span class="font-Novbold" style="padding-left: 2rem;">las profesiones del presente y el futuro.</span> </span></li>
                         <br>
                         <div class="row">
                             <div id="btnBanner">
@@ -177,16 +177,16 @@
                         </div>
                     </div>
                     <div class="col-lg-6 col-md-6 col-xs-12">
-                        <img src="<?= base_url('assets/images/chicoComputadora.png') ?>" style="width: 580px;"/>
+                        <img src="<?= base_url('assets/images/usrComputadora.png') ?>" style="width: 580px;"/>
                     </div>
                 </div>
             </div>
         </section>
-        <section class="py-5 pb-80">
+        <section class="py-5 pb-80 ">
             <div class="container">
                 <div class="row py-5">
                     <div class="col-md-12">
-                        <div class="pb-5 text-center row wow fadeInUp">
+                        <div class="pt-3 pb-5 text-center row wow fadeInUp">
                             <h3 style="color:#050505;">Este Programa es una iniciativa del Gobierno de Puebla junto a EmTech Institute para promover el desarrollo<br>
                             de talento y competitividad en el Estado a través de las tecnologías emergentes y el desarrollo de habilidades<br>
                             tecnológicas transversales.</h3>

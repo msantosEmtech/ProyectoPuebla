@@ -14,17 +14,17 @@
         <link rel="stylesheet" type="text/css" href="<?= base_url('assets/plugins/slick-1.8.1/slick/slick-theme.css') ?>" />
     </head>
     <body>
-    <header class="site-header sticky-top py-1">
+    <header class="site-header sticky-top py-2">
         <nav class="container d-flex flex-column flex-md-row justify-content-between">
         <a href="<?= base_url('Home'); ?>" class="d-flex align-items-center mb-3 mb-md-0 me-md-auto text-dark text-decoration-none iconHeader">
             <!-- <img class="imglogos" src="<?= base_url('assets/images/logose.svg') ?>" alt="logo" style="width: 4rem;"> -->
-            <span class="fs-4"><img class="imglogos" src="<?= base_url('assets/images/logose.svg') ?>" alt="logo" style="width: 8.4rem;"></span>
+            <span class="fs-4"><img class="imglogos" src="<?= base_url('assets/images/logose.svg') ?>" alt="logo" style="width: 8.8rem;"></span>
         </a>
-        <ul class="nav nav-pills" style="padding: 1rem;">
-            <li class="nav-item"><a href="<?= base_url('Home') ?>" class="nav-link <?= $title == "Home" ? "active" : "" ?>" aria-current="page">Home</a></li>
-            <li class="nav-item"><a href="#programas" class="nav-link <?= $title != "Home" ? "active" : "" ?>">Programas</a></li>
+        <ul class="nav nav-pills my-auto" style="">
+            <li class="nav-item"><a href="<?= base_url('Home') ?>" class="nav-link <?= $title == "Home" ? "active" : "" ?>" aria-current="page"  style="padding: 0.1rem 1rem">Home</a></li>
+            <li class="nav-item"><a href="#programas" class="nav-link <?= $title != "Home" ? "active" : "" ?>"  style="padding: 0.1rem 1rem">Programas</a></li>
             <li class="nav-item">
-                <a class="nav-link btn-alt-secondary text-uppercase" href="http://localhost:8080/GobPuebla2/Login">Login</a>
+                <a class="nav-link btn-alt-secondary text-uppercase" href="http://localhost:8080/GobPuebla2/Login"  style="padding: 0.1rem 1rem">Login</a>
             </li>
         </ul>
         </nav>
