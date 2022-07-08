@@ -91,7 +91,7 @@
                                 <span></span>
                                 <p>Aprende a través de los métodos que utilizan las grandes empresas del mundo cómo organizar de manera metódica un proyecto.</p>
                                 <br>
-                                <a href="coursesdetails-page.html" title="Postúlate">Postúlate para obtener una beca</a>
+                                <a href="<?= base_url('MetodologiaAgiles') ?>" title="Postúlate">Postúlate para obtener una beca</a>
                             </div>
                         </div>
                     </div>
@@ -105,7 +105,7 @@
                                 <span></span>
                                 <p>Obtén formación y conocimientos básicos de FrontEnd con lenguajes HTML, CSS y JavaScript.</p>
                                 <br>
-                                <a href="coursesdetails-page.html" title="Postúlate" style="width: 20px;">Postúlate para obtener una beca</a>
+                                <a href="<?= base_url('ProgramacionWeb') ?>" title="Postúlate" style="width: 20px;">Postúlate para obtener una beca</a>
                             </div>
                         </div>
                     </div>
