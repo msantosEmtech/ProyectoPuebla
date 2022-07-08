@@ -50,7 +50,7 @@
                 </div>
             </div>
         </section>
-        <section class="Section-padding wow fadeInUp animate__fast bg-emtech">
+        <section id="programas" class="Section-padding wow fadeInUp animate__fast bg-emtech">
             <div class="container welcome-section">
                 <div class="section-header">
                     <div class="col-lg-12 text-center" style="padding-top: 5rem;">
@@ -77,7 +77,7 @@
                                 <span></span>
                                 <p>Conoce cómo las últimas tendencias tecnológicas están cambiando la cultura organizacional de las empresas y transformando nuestras vidas.</p>
                                 <br>
-                                <a href="coursesdetails-page.html" title="Postúlate">Postúlate para obtener una beca</a>
+                                <a href="<?= base_url('TransformacionDigital') ?>" title="Postúlate">Postúlate para obtener una beca</a>
                             </div>
                         </div>
                     </div>

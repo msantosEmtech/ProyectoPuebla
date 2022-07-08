@@ -1,7 +1,7 @@
 <footer class="container-fluid" style="background-color: #E9E7E1;">
         <div class="row">
             <div class="col-12 col-md">
-                <small class="d-block mb-3 text-muted" style="padding-top: 2rem;padding-left: 1rem;font-style: italic;">
+                <small class="d-block mb-3 <?= isset($centrado) ? $centrado : "" ?> text-muted" style="padding-top: 2rem;padding-left: 1rem;font-style: italic;">
                     © Copyright FIMPES Digital 2022 I Powered by Emtech Institute I Sponsored by Santander universidades
                 </small>
             </div>

@@ -16,7 +16,8 @@ class TransformacionDigital extends CI_Controller {
 
 		$linkJsVista = base_url('assets/js/home.js');
 		$footer = array(
-            'scriptVista'=> '<script src="'.$linkJsVista.'"></script>'
+            'scriptVista'=> '<script src="'.$linkJsVista.'"></script>',
+			'centrado' =>'text-center'
         );
 
 		$this->load->view('header', $data);

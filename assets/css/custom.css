@@ -546,7 +546,10 @@
   }
 
   .bg-emtech {
-    background: #EDEDEE;
+    background: #EDEDEE !important;
+  }
+  .bg-emtech2 {
+    background: #E9E7E1;
   }
 
   @media (min-width: 220px) and (max-width: 992px) {
@@ -701,7 +704,7 @@
       margin-right: 75px;
       padding-bottom: 5px;
       padding-left: 30px;
-      padding-right: 55px;
+      padding-right: 22px;
       position: absolute;
       right: 0;
       top:0;
@@ -918,10 +921,10 @@
   }
   .more-features-area .fea-item {
     box-shadow: 0px 4px 28px rgba(196, 196, 196, 0.47);
-    }
-    .pb-80 {
-        padding-bottom: 80px;
-    }
+  }
+  .pb-80 {
+      padding-bottom: 80px;
+  }
 
 /*Video trailer*/
 .video-trailer{
@@ -1046,7 +1049,7 @@
   font-family: 'AdelleSans-Bold';
 }
 .tarjeta-pasos {
-  border-left: 8px solid #BB9F79;
+  border-left: 15px solid #BB9F79;
   max-width: 60rem;
   border-radius: 0.1rem;
   background-color: #F7F8FA;
@@ -1099,8 +1102,8 @@
   color: #BB9F79;
 }
 .accordion-button:not(.collapsed) {
-  color: #BB9F79;
-  background-color: #f5efe5;
+  color: #000000;
+  background-color: #F9F9F9;
   box-shadow: inset 0 -1px 0 rgb(0 0 0 / 13%);
 }
 .btn-alt-secondary{
@@ -1195,4 +1198,8 @@
     padding-left: 14rem;
     padding-right: 14rem;
   }
+}
+.accordion-item {
+  background-color: #fff;
+  border: none !important;
 }
