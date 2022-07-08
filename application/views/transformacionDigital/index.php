@@ -357,7 +357,7 @@
                     </div>
                     <div class="row content pt-3 text-center equal-cols">
                         <div class="col-md-12 pb-2" >
-                            <img class="pt-2 pb-3 mx-auto d-block" id="iconModulo1" style="cursor: pointer;width: 800px;" src="<?=base_url('assets/images/logosEmpresas2.png')?>"/>
+                            <img class="pt-2 pb-3 mx-auto d-block" id="iconModulo1" style="cursor: pointer;width: 75%;" src="<?=base_url('assets/images/logosEmpresas2.png')?>"/>
                         </div>
                     </div>
                 </div>
