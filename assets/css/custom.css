@@ -564,9 +564,10 @@
     }
 
     .banner-area .banner-left {
-      padding-top: 1rem;
-      margin-top: 4rem;
+      padding-top: 0rem;
+      margin-top: 0rem;
       margin-bottom: 0rem;
+      padding-left: 0rem !important;
       background-color: #333;
     }
     .bannerEspecialidades{
@@ -584,6 +585,7 @@
     .banner-area .banner-left h3 {
       font-size: 12px !important;
       padding-left: 1rem !important;
+      padding-right: 1rem !important;
     }
     .btn-rojo {
       background: #9A2840;
@@ -611,6 +613,17 @@
     }
     .seccionImagenBanner{
       padding: 2rem !important;
+    }
+    .lineaBanner {
+      border: 2px solid #BB9F79;
+      width: 21rem !important;
+      opacity: 1;
+    }
+    .slick-slide{
+      padding: 1rem !important;
+    }
+    #curso{
+      padding-top: 6rem!important;
     }
   }
   .bg-white {
@@ -871,7 +884,7 @@
 		margin-bottom: 25px;
 	}
 	.welcome-content > a{
-		padding: 5px 20px;
+		padding: 5px 18px;
 	}
       .imglogos{
           width: 6rem !important;
