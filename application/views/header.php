@@ -20,7 +20,7 @@
             <!-- <img class="imglogos" src="<?= base_url('assets/images/logose.svg') ?>" alt="logo" style="width: 4rem;"> -->
             <span class="fs-4"><img class="imglogos" src="<?= base_url('assets/images/logose.svg') ?>" alt="logo" style="width: 8.8rem;"></span>
         </a>
-        <ul class="nav nav-pills my-auto" style="">
+        <ul class="nav nav-pills my-auto">
             <li class="nav-item"><a href="<?= base_url('Home') ?>" class="nav-link <?= $title == "Home" ? "active" : "" ?>" aria-current="page"  style="padding: 0.1rem 1rem">Home</a></li>
             <li class="nav-item"><a href="#programas" class="nav-link <?= $title != "Home" ? "active" : "" ?>"  style="padding: 0.1rem 1rem; margin-right: 0.3rem;">Programas</a></li>
             <li class="nav-item">
