@@ -24,24 +24,22 @@
         </section>
         <section class="div-seccion-intro">
             <div class="container">
-                <div class="row p-2 pt-5 align-items-center  flex-lg-row text-center pb-5" style="padding-top: 5rem !important;">
+                <div class="row p-2 pt-5 align-items-center  flex-lg-row text-center pb-2" style="padding-top: 5rem !important;">
                     <div class="pt-1 text-center">
                         <h2 class="titulo-cafe">Acerca del programa</h2>
                     <br>  
                     </div>
                     <div class=" col-lg-12">
                         <h4 class="font-Novreg" style="color:#212424">
-                        Con esta convocatoria de becas del Gobierno de Puebla y EmTech Institute tendrás la oportunidad de <span class="font-Novbold">formarte durante 14 semanas</span><br> 
-                        en las tendencias y esquemas de trabajos más innovadores del mercado laboral actual para iniciar tu aprendizaje en una de los<br>
-                        perfiles más requeridos por las organizaciones: Programación Web.<br><br>
-                        Los estudiantes serán seleccionados por su rendimiento y resultados en las actividades para poder seguir avanzando hasta<br>
-                        capacitarse en programación WEB.
+                            Durante 13 semanas podrás formarte en las tendencias y esquemas de trabajo más innovadores del mercado <br>
+                            laboral actual para iniciar tu aprendizaje en uno de los perfiles más requeridos por las organizaciones: <br>
+                            <span class="font-Novbold">Programación WEB.</span>
                         </h4>
                     </div>
                 </div> 
             </div>
         </section>
-        <section class="section-padding wow fadeInUp animate__fast" style="padding-top: 6rem;padding-top: 5rem;">
+        <section class="section-padding wow fadeInUp animate__fast bg-emtech">
             <div class="container">
                 <div class="text-center pb-2">
                     <video  class="video-trailer" controls  poster="<?= base_url('assets/images/portadaVideo.png') ?>">
@@ -50,18 +48,17 @@
                 </div>
             </div>
         </section>
-        <section id="programas" class="Section-padding wow fadeInUp animate__fast bg-emtech">
+        <section id="programas" class="Section-padding wow fadeInUp animate__fast">
             <div class="container welcome-section">
                 <div class="section-header">
                     <div class="col-lg-12 text-center" style="padding-top: 5rem;">
-                        <h2 class="titulo-rojo">Fórmate con nosotros</h2>
+                        <h2 class="titulo-rojo">Fórmate con Emtech Institute</h2>
                     </div>
                     <br>
                     <div class="pt-5 text-center pb-80">
                     <h4 class="font-Novreg" style="color:#000000">
-                        <span class="font-Novbold">El Programa de Capacitación y Desarrollo de Competencias Digitales en Tecnologías Emergentes<br> 
-                        para Agentes del Ecosistema de Innovación</span> consta de 3 cursos secuenciados que te permitirán<br> 
-                        estar a la vanguardia y darle un valor agregado a tu carrera profesional.
+                        Nuestro modelo de éxito combina el acceso a los mejores contenidos en línea con un esquema de <br>
+                        acompañamiento en tiempo real y oportunidades de vinculación con el mercado laboral.
                     </h4>
                     <br>  
                     </div>
@@ -113,44 +110,55 @@
                 <div class="section-padding"></div>
             </div>
         </section>
+
+        <section id="programas" class="Section-padding wow fadeInUp animate__fast bg-emtech">
+            <div class="container welcome-section">
+                <div class="section-header">
+                    <div class="col-lg-12 text-center" style="padding-top: 5rem;">
+                        <h2 class="titulo-rojo">Modelo de acompañamiento</h2>
+                    </div>
+                    <br>
+                    <div class="pt-4 text-center pb-80">
+                    <h4 class="font-Novreg" style="color:#000000">
+                        Nuestra metodología de formación y promoción laboral te permitirá impulsar tu crecimiento a través de:
+                    </h4>
+                    <br>  
+                    </div>
+                </div>
+                <div class="row p-2 text-center">
+                    <div class="col-lg-3 col-md-3 col-xs-3">
+                        <img class=" pt-2 mx-auto d-block" src="assets/images/icon-comunidad.svg" alt="Logo Image" width="45%"/>
+                        <h5 class="titulo-modelos">Una comunidad <br>comprometida</h5>
+                        <p class="descripcion-modelos">Que permite la construcción de buenas <br>relaciones entre los participantes.</p>
+                    </div>
+                    <div class="col-lg-3 col-md-3 col-xs-3">
+                        <img class=" pt-2 mx-auto d-block" src="assets/images/icon-tutorias.svg" alt="Logo Image" width="45%"/>
+                        <h5 class="titulo-modelos">Tutorías y <br>retroalimentación</h5>
+                        <p class="descripcion-modelos">De la mano de un experto, quien te brindará el apoyo necesario para finalizar el curso de manera exitosa.</p>
+                    </div>  
+                    <div class="col-lg-3 col-md-3 col-xs-3">
+                        <img class=" pt-2 mx-auto d-block" src="assets/images/icon-casos.svg" alt="Logo Image" width="45%"/>
+                        <h5 class="titulo-modelos">Desarrollo de casos <br> prácticos</h5>
+                        <p class="descripcion-modelos">Que permiten la aplicación de los <br>conocimientos y habilidades adquiridas.</p>
+                    </div>
+                    <div class="col-lg-3 col-md-3 col-xs-3">
+                        <img class=" pt-2 mx-auto d-block" src="assets/images/icon-actores.svg" alt="Logo Image" width="45%"/>
+                        <h5 class="titulo-modelos">Contacto con <br>actores clave</h5>
+                        <p class="descripcion-modelos">Que brinda un acercamiento a la industria y <br>sus oportunidades.</p>
+                    </div>                                                          
+                </div>
+                <div class="section-padding"></div>
+            </div>
+        </section>
+        
         <section class="more-features-area pb-80 bg-white">
             <div class="container">
                 <div class="text-center" style="padding-top: 5rem;">
-                    <h2  class="font-Novbold" style="color:#000000;">Aprende sin barreras</h2>
+                    <h2  class="font-Novbold" style="color:#000000;">Educación certificada</h2>
                     <br>  
                 </div>
                 <div class="row equal-cols content pt-5 text-center tarjetas-aprende">
-                    <div class="col-md-6 pb-3" >
-                        <div class="card detalles-card" style="border-radius: 0.75rem;border: none;box-shadow: rgba(149, 157, 165, 0.2) 0px 8px 24px;">
-                            <div class="card-body">
-                                <img class="pt-2 pb-3 mx-auto d-block" id="iconModulo1" style="cursor: pointer;width: 100px;" src="<?=base_url('assets/images/iconBarreras1.svg')?>" alt="Icono" width = "100"/>
-                                <p style="line-height:115%;">
-                                    <span class="font-Novbold" style="color: #BB9F79;font-size: 18px;">Videos explicativos<br></span>
-                                    <br><br>
-                                    Lecciones grabadas explicativas para<br> profundizar tu conocimiento.
-                                    <br><br>
-                                </p>
-                            </div>
-                        </div>
-                    </div>
-                    <div class="col-md-6 pb-3" >
-                        <div class="card detalles-card" style="border-radius: 0.75rem;border: none;box-shadow: rgba(149, 157, 165, 0.2) 0px 8px 24px;">
-                            <div class="card-body">
-                                <img class="pt-2 pb-3 mx-auto d-block" id="iconModulo1" style="cursor: pointer;width: 106px;" src="<?=base_url('assets/images/iconBarreras2.svg')?>" alt="Icono" width = "100"/>
-                                <p style="line-height:115%;">
-                                    <span class="font-Novbold" style="color: #BB9F79;font-size: 18px;">Sesiones síncronas<br></span>
-                                    <br>
-                                    De la mano de un tutor podrás despejar<br> todas tus dudas y tener una experiencia<br> más personalizada.
-                                    <br><br> 
-                                </p>
-                            </div>
-                        </div>
-                    </div>
-                </div>
-                <div class="row text-center" style="padding-top: 5rem;">
-                    <div id="btnBanner">
-                        <a class="btn btn-rojo" href="https://api.whatsapp.com/message/GU7YAAOUSS3AP1" target="_blank">Descargar Brochure</a>
-                    </div>
+                        
                 </div>
             </div>
         </section>
