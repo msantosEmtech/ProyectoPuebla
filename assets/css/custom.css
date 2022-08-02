@@ -1216,3 +1216,17 @@
   background-color: #fff;
   border: none !important;
 }
+
+
+/* Texto modelo */
+
+.titulo-modelos{
+  font-family: "AdelleSans-Reg", sans-serif;
+  color: #BB9F79;
+  padding-top: 0.65rem;
+  line-height: 1.3rem;
+}
+
+.descripcion-modelos{
+  line-height: 1.3rem;
+}
