@@ -6,13 +6,15 @@
                     <div class="col-md-12">
                         <div class="banner-left" style="padding-left: 2rem;">
                             <h3 class="pt-3 pb-3 font-Novreg" style="text-shadow: 0px 4px 4px rgba(0, 0, 0, 0.6);">
-                            Programa de Capacitación y Desarrollo de Competencias<br> Digitales en Tecnologías Emergentes.
+                            Programa de Capacitación y Desarrollo de Competencias<br> Digitales en Tecnologías Emergentes para Agentes del<br>
+                            Ecosistema de Innovación.
                             <hr class="lineaBanner"> 
                             </h3>
                             
                             <h1 style="text-shadow: 0px 4px 4px rgba(0, 0, 0, 0.5);">Formación de Programación<br> WEB para Jóvenes </h1>
                             <h3 class="pt-3 pb-3 font-Novreg" style="text-shadow: 0px 4px 4px rgba(0, 0, 0, 0.6);">
-                                Aplica a esta convocatoria e inicia tu camino como desarrollador<br> WEB en una de las industrias más innovadoras del mercado laboral.
+                            Participa en esta convocatoria e inicia tu camino como desarrollador<br>
+                            WEB en una de las industrias más innovadoras del mercado laboral.
                             </h3>                          
                             <div id="btnBanner">
                                 <a class="btn btn-rojo" href="#especialidades">Postúlate para obtener una beca</a>
@@ -55,13 +57,16 @@
                         <h2 class="titulo-rojo">Fórmate con Emtech Institute</h2>
                     </div>
                     <br>
-                    <div class="pt-5 text-center pb-80">
-                    <h4 class="font-Novreg" style="color:#000000">
-                        Nuestro modelo de éxito combina el acceso a los mejores contenidos en línea con un esquema de <br>
-                        acompañamiento en tiempo real y oportunidades de vinculación con el mercado laboral.
-                    </h4>
-                    <br>  
+                    <div class="pt-5 text-center">
+                        <h4 class="font-Novreg" style="color:#000000">
+                            Nuestro modelo de éxito combina el acceso a los mejores contenidos en línea con un esquema de <br>
+                            acompañamiento en tiempo real y oportunidades de vinculación con el mercado laboral.
+                        </h4>  
                     </div>
+                    <div class="col-lg-12 text-center" style="padding-top: 5rem;">
+                        <h2 class="titulo-rojo">Prepárate con estos 3 cursos secuenciados</h2>
+                    </div>
+                    <br>
                 </div>
                 <div class="row">
                     <div class="col-md-4 col-sm-6 col-xs-6">
@@ -115,7 +120,7 @@
             <div class="container welcome-section">
                 <div class="section-header">
                     <div class="col-lg-12 text-center" style="padding-top: 5rem;">
-                        <h2 class="titulo-rojo">Modelo de acompañamiento</h2>
+                        <h2 style="color:#000000">Modelo de acompañamiento</h2>
                     </div>
                     <br>
                     <div class="pt-4 text-center pb-80">
@@ -144,7 +149,7 @@
                     <div class="col-lg-3 col-md-3 col-xs-3">
                         <img class=" pt-2 mx-auto d-block" src="assets/images/icon-actores.svg" alt="Logo Image" width="45%"/>
                         <h5 class="titulo-modelos">Contacto con <br>actores clave</h5>
-                        <p class="descripcion-modelos">Que brinda un acercamiento a la industria y <br>sus oportunidades.</p>
+                        <p class="descripcion-modelos">Que brinda un acercamiento a la industria<br> y sus oportunidades.</p>
                     </div>                                                          
                 </div>
                 <div class="section-padding"></div>
@@ -157,8 +162,17 @@
                     <h2  class="font-Novbold" style="color:#000000;">Educación certificada</h2>
                     <br>  
                 </div>
-                <div class="row equal-cols content pt-5 text-center tarjetas-aprende">
-                        
+                <div class="row text-center pt-5">
+                    <div class="col-md-4 col-ls-4 pr-0">
+                        <img src="assets/images/comp1.svg" alt="Testimonial Image" width="90%">
+                    </div>
+                    <div class="col-md-8 col-ls-8 parrafo-cuadro-gris align-self-center my-auto" style="align-items: center;background:#EDEFF2;margin-left: -5.25rem; padding: 2rem;padding-top:1rem;margin-rigth:4rem">
+                        <p class="post-para" style="height:4rem;width:38rem;padding-left:5rem;padding-right:5rem;text-align: left;">
+                            Al terminar cada curso de manera satisfactoria, Emtech Institute te<br>
+                            otorgará un certificado digital que valida el dominio en los temas<br>
+                            aprendidos y habilidades adquiridas.
+                        </p>
+                    </div>                    
                 </div>
             </div>
         </section>
@@ -192,12 +206,16 @@
         </section>
         <section class="py-5 pb-80 ">
             <div class="container">
+                <div class="section-header">
+                    <div class="col-lg-12 text-center" style="padding-top: 5rem;">
+                        <h2 class="titulo-rojo">Promovemos la competitividad digital</h2>
+                    </div>
+                    <br>
+                </div>
                 <div class="row py-5">
                     <div class="col-md-12">
                         <div class="pt-3 pb-5 text-center row wow fadeInUp">
-                            <h3 style="color:#050505;">Este Programa es una iniciativa del Gobierno de Puebla junto a EmTech Institute para promover el desarrollo<br>
-                            de talento y competitividad en el Estado a través de las tecnologías emergentes y el desarrollo de habilidades<br>
-                            tecnológicas transversales.</h3>
+                            <h3 style="color:#050505;">Este programa es una iniciativa del Gobierno de Puebla en alianza con Emtech Institute, con el objetivo  de impulsar en el Estado el desarrollo de talento en tecnologías emergentes y habilidades digitales transversales.</h3>
                         <br>  
                         </div>
                         <div class="row content pt-3 text-center equal-cols">

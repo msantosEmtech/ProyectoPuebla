@@ -83,5 +83,13 @@
           ],
           arrows: false
           });
+
+          $('.carroselObtener').slick({
+            dots: true,
+            infinite: true,
+            slidesToScroll: 1,
+            slidesToShow: 1,
+            adaptiveHeight: true
+          });
     }
 }());

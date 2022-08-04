@@ -625,6 +625,22 @@
     #curso{
       padding-top: 6rem!important;
     }
+    .parrafo-cuadro-gris{
+      align-items: center !important;
+      background: #EDEFF2;
+      margin-left: 0rem !important;
+      padding: 0rem !important;
+      padding-top: 1rem !important;
+      padding-bottom: 2rem !important;
+    }
+    .post-para{
+      height: 8rem !important;
+      width: 25rem !important;
+      padding-left: 5rem !important;
+      padding-right: 5rem !important;
+      text-align: center !important;
+      margin: 0rem !important;
+    }
   }
   .bg-white {
     background: #fff;

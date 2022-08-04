@@ -24,7 +24,7 @@
             <li class="nav-item"><a href="<?= base_url('Home') ?>" class="nav-link <?= $title == "Home" ? "active" : "" ?>" aria-current="page"  style="padding: 0.1rem 1rem">Home</a></li>
             <li class="nav-item"><a href="#programas" class="nav-link <?= $title != "Home" ? "active" : "" ?>"  style="padding: 0.1rem 1rem; margin-right: 0.3rem;">Programas</a></li>
             <li class="nav-item">
-                <a class="nav-link btn-alt-secondary text-uppercase" href="http://localhost:8080/GobPuebla2/Login"  style="padding: 0.1rem 1rem">Login</a>
+                <a class="nav-link btn-alt-secondary" href="http://localhost:8080/GobPuebla2/Login"  style="padding: 0.1rem 1rem">Iniciar sesión</a>
             </li>
         </ul>
         </nav>
