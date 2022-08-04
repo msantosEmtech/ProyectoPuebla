@@ -166,7 +166,7 @@
                     <div class="col-md-4 col-ls-4 pr-0">
                         <img src="assets/images/comp1.svg" alt="Testimonial Image" width="90%">
                     </div>
-                    <div class="col-md-8 col-ls-8 parrafo-cuadro-gris align-self-center my-auto" style="align-items: center;background:#EDEFF2;margin-left: -5.25rem; padding: 2rem;padding-top:1rem;margin-rigth:4rem">
+                    <div class="col-md-8 col-ls-8 parrafo-cuadro-gris align-self-center my-auto" style="align-items: center;background:#EDEFF2;margin-left: -5.25rem; padding: 2rem;padding-top:1rem;margin-right:4rem;">
                         <p class="post-para" style="height:4rem;width:38rem;padding-left:5rem;padding-right:5rem;text-align: left;">
                             Al terminar cada curso de manera satisfactoria, Emtech Institute te<br>
                             otorgará un certificado digital que valida el dominio en los temas<br>
