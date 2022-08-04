@@ -1,5 +1,5 @@
 <main>
-    <section class="banner-area" style="background-image: url('<?= base_url("assets/images/transformacionDigital/bannerTransformacionDigital.png") ?>');background-color:#F7F8FA;background-size:cover; background-repeat: no-repeat;max-height: 42rem;">
+    <section class="banner-area" style="background-image: url('<?= base_url("assets/images/programacionWeb/bannerProgramacionWeb.png") ?>');background-color:#F7F8FA;background-size:cover; background-repeat: no-repeat;max-height: 42rem;">
         <div class="container" style="position: relative;z-index: 1;">
             <div class="row flex-md-row align-items-center">
                 <div class="col-md-12">
@@ -8,9 +8,9 @@
                         Programa de Capacitación y Desarrollo de Competencias Digitales en<br> Tecnologías Emergentes para Agentes del Ecosistema de Innovación.
                         </h3>
                         <br>
-                        <h1 class="text-center" style="text-shadow: 0px 4px 4px rgba(0, 0, 0, 0.35);font-size: 45px;">Introducción a las Tecnologías Emergentes</h1>
+                        <h1 class="text-center" style="text-shadow: 0px 4px 4px rgba(0, 0, 0, 0.35);font-size: 45px;">Programación Web</h1>
                         <h3 class="pt-3 pb-3 font-Novreg text-center" style="text-shadow: 0px 4px 4px rgba(0, 0, 0, 0.5);">
-                        Conoce cómo las organizaciones líderes innovan y préparate<br> para las profesiones de hoy y del futuro.
+                        Aprende desde cero sobre una de las carreras más demandadas en la<br> actualidad y prepárate para el éxito de tu carrera profesional.
                         </h3>                          
                         <div class="text-center" id="btnBanner">
                             <a class="btn btn-rojo" href="#especialidades">Postúlate para obtener una beca</a>
@@ -32,7 +32,7 @@
                                 </div>
                                 <div class="col-md-12 descripcionTarjeta" style="padding-top: 10px;">
                                     <p style="color:#BB9F79;padding-bottom: 1rem;">Duración:</p>
-                                    <span style="font-size: 16px;font-weight: 500;line-height: 20px;color: #FFFFFF;font-family: 'AdelleSans-Reg';">2 semanas</span>
+                                    <span style="font-size: 16px;font-weight: 500;line-height: 20px;color: #FFFFFF;font-family: 'AdelleSans-Reg';">10 semanas</span>
                                 </div>
                             </div>
                         </div>
@@ -47,7 +47,7 @@
                                 </div>
                                 <div class="col-md-12 descripcionTarjeta" style="padding-top: 10px;">
                                 <p style="color:#BB9F79;padding-bottom: 1rem;">Nivel:</p>
-                                    <span style="font-size: 16px;font-weight: 500;line-height: 20px;color: #FFFFFF;font-family: 'AdelleSans-Reg';">Básico</span>
+                                    <span style="font-size: 16px;font-weight: 500;line-height: 20px;color: #FFFFFF;font-family: 'AdelleSans-Reg';">Principiante</span>
                                 </div>
                             </div>
                         </div>
@@ -71,13 +71,15 @@
             </div>
             <div class="row p-2 py-5 align-items-center flex-column-reverse flex-lg-row text-center">
                 <div class=" col-lg-12">
-                    <h2 style="color:#BB9F79">¿Por qué Tecnologías Emergentes?</h2>
+                    <h2 style="color:#BB9F79">¿Por qué  Desarrollo Web?</h2>
                     <br>
                     <h4 class="font-Novreg" style="color:#212424">
-                        Este curso fundacional de Tecnologías Emergentes forma parte del <span class="font-Novbold">Programa de Capacitación y Desarrollo de<br>
-                        Competencias Digitales en Tecnologías Emergentes para Agentes del Ecosistema de Innovación,</span> una<br>
-                        iniciativa de EmTech Institute y el Gobierno de Puebla para promover el desarrollo de talento y competitividad<br>
-                        en el Estado a través de las tecnologías emergentes y el desarrollo de habilidades tecnológicas transversales.
+                        En un mundo competitivo como el actual, donde todo gira en torno a Internet y lo digital, <span class="font-Novbold">formarte como<br> 
+                        desarrollador web</span> aportará valor agregado a tu carrera profesional. En este curso partiremos desde lo más<br>
+                        básico del diseño y programación para asegurarnos que tengas <span class="font-Novbold">todos los conocimientos necesarios para el<br>
+                        desarrollo de sitios web de alta calidad.</span>
+
+
                     </h4>
                     <br>
                     <div class="text-center pb-2" style="padding-top: 8rem;">
@@ -92,26 +94,26 @@
     <section class="more-features-area pb-80 bg-white">
         <div class="container py-5">
             <div class="pt-5 text-center">
-                <h2 style="color:#050505">¿Qué aprenderás en este programa?</h2>
+                <h2 style="color:#050505">¿Qué aprenderás en este curso?</h2>
                 <br>  
             </div>
             <div class="row content pt-5 text-center pb-80">
                 <div class="col-lg-4 col-md-4 col-xs-4">
-                    <img class="pt-2 mx-auto d-block" id="iconModulo1" style="cursor: pointer;width: 100px;padding-bottom: 1rem;" src="<?=base_url('assets/images/transformacionDigital/circuloRojo.svg')?>" alt="Icono" />
-                    <p style="padding-left:1rem;padding-right:1rem;line-height:115%;"><br><br>La evolución histórica de la tecnología, así<br> como las principales características de la<br> revolución industrial y la cuantificación del<br> proceso tecnológico. </p>
+                    <img class="pt-2 mx-auto d-block" id="iconModulo1" style="cursor: pointer;width: 100px;padding-bottom: 1rem;" src="<?=base_url('assets/images/programacionWeb/circuloRojo.svg')?>" alt="Icono" />
+                    <p style="padding-left:1rem;padding-right:1rem;line-height:115%;"><br><br>Los conceptos básicos que conforman el<br> mundo del sitio web y la función de cada uno de<br> ellos dentro de la construcción de una página.</p>
                 </div> 
                 <div class="col-lg-4 col-md-4 col-xs-4">
-                    <img class="pt-2 mx-auto d-block" id="iconModulo1" style="cursor: pointer;width: 100px;padding-bottom: 1rem;" src="<?=base_url('assets/images/transformacionDigital/circuloRojo2.svg')?>" alt="Icono" />
-                    <p style="padding-left:1rem;padding-right:1rem;line-height:115%;"><br><br> Las tecnologías de vanguardia, pilares de<br> la Industria 4.0 y sus características<br> generales en la reciente transformación<br> en la industria manufacturera.</p>
+                    <img class="pt-2 mx-auto d-block" id="iconModulo1" style="cursor: pointer;width: 100px;padding-bottom: 1rem;" src="<?=base_url('assets/images/programacionWeb/circuloRojo2.svg')?>" alt="Icono" />
+                    <p style="padding-left:1rem;padding-right:1rem;line-height:115%;"><br><br>Los distintos lenguajes de programación para<br> desarrollo Frontend y su aplicación dentro de<br> un sitio web.</p>
                 </div>    
                 <div class="col-lg-4 col-md-4 col-xs-4">
-                    <img class="pt-2 mx-auto d-block" id="iconModulo1" style="cursor: pointer;width: 100px;padding-bottom: 1rem;" src="<?=base_url('assets/images/transformacionDigital/circuloRojo3.svg')?>" alt="Icono" />
-                    <p style="padding-left:1rem;padding-right:1rem;line-height:115%;"><br><br>Las principales aplicaciones de las<br> tecnologías emergentes y el desarrollo de<br> habilidades tecnológicas transversales.</p>
+                    <img class="pt-2 mx-auto d-block" id="iconModulo1" style="cursor: pointer;width: 100px;padding-bottom: 1rem;" src="<?=base_url('assets/images/programacionWeb/circuloRojo3.svg')?>" alt="Icono" />
+                    <p style="padding-left:1rem;padding-right:1rem;line-height:115%;"><br><br>Conceptos fundamentales de JavaScript, para<br> que lleves tus conocimientos de desarrollo<br> web al siguiente nivel.</p>
                 </div>
             </div>
             <div class="py-5 text-center">
                 <div id="btnBanner">
-                    <a class="btn btn-rojo" href="<?= base_url('assets/pdf/OnePager-1.pdf') ?>" download="OnePager-Creación de Experiencias">Descargar Brochure</a>
+                    <a class="btn btn-rojo" href="<?= base_url('assets/pdf/OnePager-1.pdf') ?>" download="OnePager-Creación de Experiencias">Ir al contenido</a>
                 </div>
             </div>
         </div>
@@ -120,9 +122,9 @@
         <div class="container py-5">
             <div class="row align-items-center flex-column-reverse flex-lg-row text-center pt-5">
                 <div class="col-lg-12">
-                    <h3 class="font-Novbold banner-descripcion" style="color:#050505">
-                    Este curso es para ti si quieres:                       
-                    </h3>
+                    <h2 class="font-Novbold banner-descripcion" style="color:#050505">
+                    Al final de este curso podrás:                       
+                    </h2>
                 </div>
             </div>
             <div class="row p-2" >
@@ -133,9 +135,9 @@
                                 <div id="paso1m" class="" style="text-align:left ">
                                     <div class="row">
                                         <div class="col-12">
-                                            <h3 class="font-Novbold banner-descripcion num-paso">01</h3>
+                                            <span class="pb-80"></span>
                                             <h4 class="my-auto font-Novbold banner-descripcion" style="color:#9A2840;text-align:left ">
-                                                <br> -Implementar los principios de la metodología ágil para el diseño y presentación exitosa de la operación de un proyecto.
+                                                <br> Incursionar en una de las industrias más innovadoras y requeridas del mercado laboral actual.
                                             </h4>
                                         </div>
                                     </div>
@@ -147,9 +149,9 @@
                                 <div id="paso1m" class="" style="text-align:left">
                                     <div class="row">
                                         <div class="col-12">
-                                            <h3 class="font-Novbold banner-descripcion num-paso">02</h3>
+                                            <span class="pb-80"></span>
                                             <h4 class=" font-Novbold banner-descripcion" style="color:#9A2840;text-align:left ">
-                                                <br>- Identificar los elementos críticos de un proyecto y saber cómo coordinar un equipo desde el rol del Scrum Máster.
+                                                <br> Aprender las funciones de los diferentes perfiles que pueden desarrollarse en el mundo de la Programación Web.
                                             </h4>
                                         </div>
                                     </div>
@@ -161,9 +163,9 @@
                                 <div id="paso1m" class="" style="text-align:left ">
                                     <div class="row">
                                         <div class="col-12">
-                                            <h3 class="font-Novbold banner-descripcion num-paso">03</h3>
+                                            <span class="pb-80"></span>
                                             <h4 class="pr-2 font-Novbold banner-descripcion" style="color:#9A2840;text-align:left ">
-                                                <br>- Proponer una planeación para la gestión de un proyecto considerando el total de actividades que hay que realizar. 
+                                                <br> Obtener conocimientos desde cero en lenguajes de programación para desarrolladores Frontend.
                                             </h4>
                                         </div>
                                     </div>
@@ -175,41 +177,14 @@
             </div>
         </div>
     </section>
-    <section class="more-features-area pb-80 bg-white">
-        <div class="container py-5">
-            <div class="pt-5 text-center">
-                <h2 style="color:#050505">¿Quiénes pueden tomar este curso?</h2>
-                <br>  
-            </div>
-            <div class="row content pt-5 text-center pb-80">
-                <div class="col-lg-4 col-md-4 col-xs-4">
-                    <img class="pt-2 mx-auto d-block" id="iconModulo1" style="cursor: pointer;width: 350px;padding-bottom: 1rem;" src="<?=base_url('assets/images/transformacionDigital/imgChicaManosArriba.jpg')?>" alt="Icono" />
-                    <p style="padding-left:1rem;padding-right:1rem;line-height:115%;"><br><br>Haber sido seleccionado como ganador de una<br> de las becas del Programa de Capacitación y<br> Desarrollo de Competencias Digitales en<br> Tecnologías Emergentes.</p>
-                </div> 
-                <div class="col-lg-4 col-md-4 col-xs-4">
-                    <img class="pt-2 mx-auto d-block" id="iconModulo1" style="cursor: pointer;width: 350px;padding-bottom: 1rem;" src="<?=base_url('assets/images/transformacionDigital/imgDedoTecnologia.jpg')?>" alt="Icono" />
-                    <p style="padding-left:1rem;padding-right:1rem;line-height:115%;"><br><br>Tener interés en la aplicación de tecnologías<br> emergentes en el mercado laboral actual.</p>
-                </div>    
-                <div class="col-lg-4 col-md-4 col-xs-4">
-                    <img class="pt-2 mx-auto d-block" id="iconModulo1" style="cursor: pointer;width: 350px;padding-bottom: 1rem;" src="<?=base_url('assets/images/transformacionDigital/imgLaptopBlanca.jpg')?>" alt="Icono" />
-                    <p style="padding-left:1rem;padding-right:1rem;line-height:115%;"><br><br>Obtener un nivel principiante o intermedio en el<br> diagnóstico de competencias.</p>
-                </div>
-            </div>
-            <div class="py-5 text-center">
-                <div id="btnBanner">
-                    <a class="btn btn-rojo" href="<?= base_url('assets/pdf/OnePager-1.pdf') ?>" download="OnePager-Creación de Experiencias">Postúlate para obtener una beca</a>
-                </div>
-            </div>
-        </div>
-    </section>
-    <section class="pt-5 more-features-area pb-80 bg-emtech">
+    <section class="pt-5 more-features-area pb-80 bg-white">
         <div class="container">
             <div class="text-center" style="padding-top: 5rem;">
-                <h2  class="font-Novbold" style="color:#000000;">Este Programa está preparado para que recibas lo<br> mejor de dos mundos en cuanto enseñanza</h2>
+                <h2  class="font-Novbold" style="color:#000000;">Aprende con</h2>
                 <br>  
             </div>
             <div class="row equal-cols content pt-5 text-center tarjetas-aprende">
-                <div class="col-md-6 pb-3" >
+                <div class="col-md-4 pb-3" >
                     <div class="card detalles-card" style="border-radius: 12px;border: none;box-shadow: 0px 2px 14px #E5E6E8;">
                         <div class="card-body">
                             <img class="pt-2 pb-3 mx-auto d-block" id="iconModulo1" style="cursor: pointer;width: 106px;" src="<?=base_url('assets/images/iconBarreras2.svg')?>" alt="Icono" width = "100"/>
@@ -221,13 +196,25 @@
                         </div>
                     </div>
                 </div>
-                <div class="col-md-6 pb-3" >
+                <div class="col-md-4 pb-3" >
                     <div class="card detalles-card" style="border-radius: 12px;border: none;box-shadow: 0px 2px 14px #E5E6E8;">
                         <div class="card-body">
-                            <img class="pt-2 pb-3 mx-auto d-block" id="iconModulo1" style="cursor: pointer;width: 100px;" src="<?=base_url('assets/images/iconBarreras1.svg')?>" alt="Icono" width = "100"/>
+                            <img class="pt-2 pb-3 mx-auto d-block" id="iconModulo1" style="cursor: pointer;width: 135px;" src="<?=base_url('assets/images/iconBarreras4.svg')?>" alt="Icono" width = "100"/>
                             <p style="line-height:115%;">
                                 <br>
-                                De la mano de un tutor podrás despejar<br> todas tus dudas y tener una experiencia<br> más personalizada. 
+                                Acompañamiento de un tutor para tener un<br> seguimiento más personalizado. 
+                                <br><br> 
+                            </p>
+                        </div>
+                    </div>
+                </div>
+                <div class="col-md-4 pb-3" >
+                    <div class="card detalles-card" style="border-radius: 12px;border: none;box-shadow: 0px 2px 14px #E5E6E8;">
+                        <div class="card-body">
+                            <img class="pt-2 pb-3 mx-auto d-block" id="iconModulo1" style="cursor: pointer;width: 100px;" src="<?=base_url('assets/images/iconBarreras3.svg')?>" alt="Icono" width = "100"/>
+                            <p style="line-height:115%;">
+                                <br>
+                                Actividades practicas que te permiten<br> reforzar tu aprendizaje. 
                                 <br><br> 
                             </p>
                         </div>
@@ -236,11 +223,38 @@
             </div>
         </div>
     </section>
+    <section class="more-features-area pb-80 bg-emtech">
+        <div class="container py-5">
+            <div class="pt-5 text-center">
+                <h2 style="color:#050505">Requisitos para tomar este curso</h2>
+                <br>  
+            </div>
+            <div class="row content pt-5 text-center pb-80">
+                <div class="col-lg-4 col-md-4 col-xs-4">
+                    <img class="pt-2 mx-auto d-block" id="iconModulo1" style="cursor: pointer;width: 350px;padding-bottom: 1rem;" src="<?=base_url('assets/images/programacionWeb/imgTeclado.jpg')?>" alt="Icono" />
+                    <p style="padding-left:1rem;padding-right:1rem;line-height:115%;"><br><br>Haber sido seleccionado luego de completar de<br> manera exitosa los cursos de Tecnologías<br> Emergentes y Metodologías Ágiles.
+                </div> 
+                <div class="col-lg-4 col-md-4 col-xs-4">
+                    <img class="pt-2 mx-auto d-block" id="iconModulo1" style="cursor: pointer;width: 350px;padding-bottom: 1rem;" src="<?=base_url('assets/images/programacionWeb/imgCodigo.jpg')?>" alt="Icono" />
+                    <p style="padding-left:1rem;padding-right:1rem;line-height:115%;"><br><br>Tener interés  en<br> iniciar tu formación en desarrollo web. 
+                </div>    
+                <div class="col-lg-4 col-md-4 col-xs-4">
+                    <img class="pt-2 mx-auto d-block" id="iconModulo1" style="cursor: pointer;width: 350px;padding-bottom: 1rem;" src="<?=base_url('assets/images/programacionWeb/imgProgramador.jpg')?>" alt="Icono" />
+                    <p style="padding-left:1rem;padding-right:1rem;line-height:115%;"><br><br>Obtener un nivel básico o intermedio en el<br> diagnóstico de competencias tecnológicas.
+                </div>
+            </div>
+            <div class="py-5 text-center">
+                <div id="btnBanner">
+                    <a class="btn btn-rojo" href="<?= base_url('assets/pdf/OnePager-1.pdf') ?>" download="OnePager-Creación de Experiencias">Postúlate para obtener una beca</a>
+                </div>
+            </div>
+        </div>
+    </section>
     <section id="faqs" class="section-padding faq-area-four wow fadeInUp animate__fast">
         <div class="container py-5">
             <div class="row">
                 <div class="col-lg-7 col-xs-12">
-                    <h3 class="font-Novreg banner-descripcion" style="color:#992740">
+                    <h3 class="font-Novbold banner-descripcion" style="color:#992740">
                         Contenido
                     </h3>
                     <br>
@@ -250,17 +264,33 @@
                                 <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse"
                                     data-bs-target="#flush-collapseOne" aria-expanded="false"
                                     aria-controls="flush-collapseOne">
-                                    Gestión SCRUM - Agile
+                                    1. HTML
                                 </button>
                             </h2>
                             <div id="flush-collapseOne" class="accordion-collapse collapse"
                                 aria-labelledby="flush-headingOne" data-bs-parent="#accordionFlushExample">
                                 <div class="accordion-body">
                                     <ul class="list-group list-group-light">
-                                        <li class="list-group-item px-3 border-0"><i class="fas fa-circle" style="color: #BB9F79;"></i><span> Welcome Kit </span></li>
-                                        <li class="list-group-item px-3 border-0"><i class="fas fa-circle" style="color: #BB9F79;"></i><span> Marco de trabajo SCRUM</span></li>
-                                        <li class="list-group-item px-3 border-0"><i class="fas fa-circle" style="color: #BB9F79;"></i><span> Reflexión sobre SCRUM</span></li>
-                                        <li class="list-group-item px-3 border-0"><i class="fas fa-circle" style="color: #BB9F79;"></i><span> Quiz : Gestión SCRUM</span></li>
+                                        <li class="list-group-item px-3 border-0">
+                                            <i class="fas fa-circle" style="color: #BB9F79;"></i>
+                                            <span> Prototipado </span>
+                                        </li>
+                                        <li class="list-group-item px-3 border-0">
+                                            <i class="fas fa-circle" style="color: #BB9F79;"></i>
+                                            <span> Listas </span>
+                                        </li>
+                                        <li class="list-group-item px-3 border-0">
+                                            <i class="fas fa-circle" style="color: #BB9F79;"></i>
+                                            <span> Formularios </span>
+                                        </li>
+                                        <li class="list-group-item px-3 border-0">
+                                            <i class="fas fa-circle" style="color: #BB9F79;"></i>
+                                            <span> Enlaces </span>
+                                        </li>
+                                        <li class="list-group-item px-3 border-0">
+                                            <i class="fas fa-circle" style="color: #BB9F79;"></i>
+                                            <span> Insertar </span>
+                                        </li>
                                     </ul>
                                 </div>
                             </div>
@@ -270,16 +300,17 @@
                                 <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse"
                                     data-bs-target="#flush-collapseTwo" aria-expanded="false"
                                     aria-controls="flush-collapseTwo">
-                                    Staffing y estructura de equipos de trabajo
+                                    2. GIT
                                 </button>
                             </h2>
                             <div id="flush-collapseTwo" class="accordion-collapse collapse"
                                 aria-labelledby="flush-headingTwo" data-bs-parent="#accordionFlushExample">
                                 <div class="accordion-body">
                                     <ul class="list-group list-group-light">
-                                        <li class="list-group-item px-3 border-0"><i class="fas fa-circle" style="color: #BB9F79;"></i><span> Estructuración del trabajo en equipo </span></li>
-                                        <li class="list-group-item px-3 border-0"><i class="fas fa-circle" style="color: #BB9F79;"></i><span> Reflexión sobre estructura del equipo de trabajo </span></li>
-                                        <li class="list-group-item px-3 border-0"><i class="fas fa-circle" style="color: #BB9F79;"></i><span> Quiz: Estructura del equipo de trabajo</span></li>
+                                        <li class="list-group-item px-3 border-0">
+                                            <i class="fas fa-circle" style="color: #BB9F79;"></i>
+                                            <span> Cómo crear un portafolio en GITHUB </span>
+                                        </li>
                                     </ul>
                                 </div>
                             </div>
@@ -289,34 +320,181 @@
                                 <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse"
                                     data-bs-target="#flush-collapseThree" aria-expanded="false"
                                     aria-controls="flush-collapseThree">
-                                    Planeación de Programas de Aprendizaje Híbrido
+                                    3. CSS
                                 </button>
                             </h2>
                             <div id="flush-collapseThree" class="accordion-collapse collapse"
                                 aria-labelledby="flush-headingThree" data-bs-parent="#accordionFlushExample">
                                 <div class="accordion-body">
                                     <ul class="list-group list-group-light">
-                                        <li class="list-group-item px-3 border-0"><i class="fas fa-circle" style="color: #BB9F79;"></i><span> Planeación y calendarización </span></li>
-                                        <li class="list-group-item px-3 border-0"><i class="fas fa-circle" style="color: #BB9F79;"></i><span> Presupuestos </span></li>
-                                        <li class="list-group-item px-3 border-0"><i class="fas fa-circle" style="color: #BB9F79;"></i><span> Aplicación práctica de proyecto</span></li>
+                                        <li class="list-group-item px-3 border-0">
+                                            <i class="fas fa-circle" style="color: #BB9F79;"></i>
+                                            <span> Selectores </span>
+                                        </li>
+                                        <li class="list-group-item px-3 border-0">
+                                            <i class="fas fa-circle" style="color: #BB9F79;"></i>
+                                            <span> Colores </span>
+                                        </li>
+                                        <li class="list-group-item px-3 border-0">
+                                            <i class="fas fa-circle" style="color: #BB9F79;"></i>
+                                            <span> Background </span>
+                                        </li>
+                                        <li class="list-group-item px-3 border-0">
+                                            <i class="fas fa-circle" style="color: #BB9F79;"></i>
+                                            <span> Texto </span>
+                                        </li>
+                                        <li class="list-group-item px-3 border-0">
+                                            <i class="fas fa-circle" style="color: #BB9F79;"></i>
+                                            <span> Fuentes </span>
+                                        </li>
+                                        <li class="list-group-item px-3 border-0">
+                                            <i class="fas fa-circle" style="color: #BB9F79;"></i>
+                                            <span> BoxModel </span>
+                                        </li>
+                                    </ul>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="accordion-item">
+                            <h2 class="accordion-header" id="flush-headingFour">
+                                <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse"
+                                    data-bs-target="#flush-collapseFour" aria-expanded="false"
+                                    aria-controls="flush-collapseFour">
+                                    4. FlexBox
+                                </button>
+                            </h2>
+                            <div id="flush-collapseFour" class="accordion-collapse collapse"
+                                aria-labelledby="flush-headingFour" data-bs-parent="#accordionFlushExample">
+                                <div class="accordion-body">
+                                    <ul class="list-group list-group-light">
+                                        <li class="list-group-item px-3 border-0">
+                                            <i class="fas fa-circle" style="color: #BB9F79;"></i>
+                                            <span> Container </span>
+                                        </li>
+                                        <li class="list-group-item px-3 border-0">
+                                            <i class="fas fa-circle" style="color: #BB9F79;"></i>
+                                            <span> Items </span>
+                                        </li>
+                                        <li class="list-group-item px-3 border-0">
+                                            <i class="fas fa-circle" style="color: #BB9F79;"></i>
+                                            <span> Transformaciones </span>
+                                        </li>
+                                        <li class="list-group-item px-3 border-0">
+                                            <i class="fas fa-circle" style="color: #BB9F79;"></i>
+                                            <span> Transiciones </span>
+                                        </li>
+                                        <li class="list-group-item px-3 border-0">
+                                            <i class="fas fa-circle" style="color: #BB9F79;"></i>
+                                            <span> Sombras </span>
+                                        </li>
+                                        <li class="list-group-item px-3 border-0">
+                                            <i class="fas fa-circle" style="color: #BB9F79;"></i>
+                                            <span> Animación </span>
+                                        </li>
                                     </ul>
                                 </div>
                             </div>
                         </div> 
                         <div class="accordion-item">
-                            <h2 class="accordion-header" id="flush-headingEight">
+                            <h2 class="accordion-header" id="flush-headingFive">
                                 <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse"
-                                    data-bs-target="#flush-collapseEight" aria-expanded="false"
-                                    aria-controls="flush-collapseEight">
-                                    Gestión des procesos
+                                    data-bs-target="#flush-collapseFive" aria-expanded="false"
+                                    aria-controls="flush-collapseFive">
+                                    5. Diseño Responsivo
                                 </button>
                             </h2>
-                            <div id="flush-collapseEight" class="accordion-collapse collapse"
-                                aria-labelledby="flush-headingEight" data-bs-parent="#accordionFlushExample">
+                            <div id="flush-collapseFive" class="accordion-collapse collapse"
+                                aria-labelledby="flush-headingFive" data-bs-parent="#accordionFlushExample">
                                 <div class="accordion-body">
                                     <ul class="list-group list-group-light">
-                                        <li class="list-group-item px-3 border-0"><i class="fas fa-circle" style="color: #BB9F79;"></i><span> Seguimiento, tracking y KPIs</span></li>
-                                        <li class="list-group-item px-3 border-0"><i class="fas fa-circle" style="color: #BB9F79;"></i><span> Gestión de riesgos y presupuestos</span></li>
+                                        <li class="list-group-item px-3 border-0">
+                                            <i class="fas fa-circle" style="color: #BB9F79;"></i>
+                                            <span> Media Query </span>
+                                        </li>
+                                        <li class="list-group-item px-3 border-0">
+                                            <i class="fas fa-circle" style="color: #BB9F79;"></i>
+                                            <span> Uso de elementos </span>
+                                        </li>
+                                        <li class="list-group-item px-3 border-0">
+                                            <i class="fas fa-circle" style="color: #BB9F79;"></i>
+                                            <span> Boostrap </span>
+                                        </li>
+                                    </ul>
+                                </div>
+                            </div>
+                        </div> 
+                        <div class="accordion-item">
+                            <h2 class="accordion-header" id="flush-headingSix">
+                                <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse"
+                                    data-bs-target="#flush-collapseSix" aria-expanded="false"
+                                    aria-controls="flush-collapseSix">
+                                    6. SAAS
+                                </button>
+                            </h2>
+                            <div id="flush-collapseSix" class="accordion-collapse collapse"
+                                aria-labelledby="flush-headingSix" data-bs-parent="#accordionFlushExample">
+                                <div class="accordion-body">
+                                    <ul class="list-group list-group-light">
+                                        <li class="list-group-item px-3 border-0">
+                                            <i class="fas fa-circle" style="color: #BB9F79;"></i>
+                                            <span> Complilación </span>
+                                        </li>
+                                        <li class="list-group-item px-3 border-0">
+                                            <i class="fas fa-circle" style="color: #BB9F79;"></i>
+                                            <span> Anidación </span>
+                                        </li>
+                                        <li class="list-group-item px-3 border-0">
+                                            <i class="fas fa-circle" style="color: #BB9F79;"></i>
+                                            <span> Importación </span>
+                                        </li>
+                                        <li class="list-group-item px-3 border-0">
+                                            <i class="fas fa-circle" style="color: #BB9F79;"></i>
+                                            <span> Mixin </span>
+                                        </li>
+                                        <li class="list-group-item px-3 border-0">
+                                            <i class="fas fa-circle" style="color: #BB9F79;"></i>
+                                            <span> Extena </span>
+                                        </li>
+                                    </ul>
+                                </div>
+                            </div>
+                        </div> 
+                        <div class="accordion-item">
+                            <h2 class="accordion-header" id="flush-headingSeven">
+                                <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse"
+                                    data-bs-target="#flush-collapseSeven" aria-expanded="false"
+                                    aria-controls="flush-collapseSeven">
+                                    7. JavaScript
+                                </button>
+                            </h2>
+                            <div id="flush-collapseSeven" class="accordion-collapse collapse"
+                                aria-labelledby="flush-headingSeven" data-bs-parent="#accordionFlushExample">
+                                <div class="accordion-body">
+                                    <ul class="list-group list-group-light">
+                                        <li class="list-group-item px-3 border-0">
+                                            <i class="fas fa-circle" style="color: #BB9F79;"></i>
+                                            <span> Introducción </span>
+                                        </li>
+                                        <li class="list-group-item px-3 border-0">
+                                            <i class="fas fa-circle" style="color: #BB9F79;"></i>
+                                            <span> Funciones, Array, Objetos y JSON </span>
+                                        </li>
+                                        <li class="list-group-item px-3 border-0">
+                                            <i class="fas fa-circle" style="color: #BB9F79;"></i>
+                                            <span> Ciclos </span>
+                                        </li>
+                                        <li class="list-group-item px-3 border-0">
+                                            <i class="fas fa-circle" style="color: #BB9F79;"></i>
+                                            <span> Funciones de orden superior </span>
+                                        </li>
+                                        <li class="list-group-item px-3 border-0">
+                                            <i class="fas fa-circle" style="color: #BB9F79;"></i>
+                                            <span> DOM, eventos y storage </span>
+                                        </li>
+                                        <li class="list-group-item px-3 border-0">
+                                            <i class="fas fa-circle" style="color: #BB9F79;"></i>
+                                            <span> Asincronía y promesas </span>
+                                        </li>
                                     </ul>
                                 </div>
                             </div>
@@ -324,22 +502,23 @@
                     </div>
                 </div>
                 <div class="col-lg-5 align-self-center my-auto">
-                    <img class="img-fluid pt-2 mx-auto d-block" src="<?= base_url('assets/images/transformacionDigital/imgSeccionContenido.png')?>" alt="Logo Image"/>
+                    <img class="img-fluid pt-2 mx-auto d-block" src="<?= base_url('assets/images/programacionWeb/imgSeccionContenido.png')?>" alt="Logo Image"/>
                 </div>
             </div>
         </div>
     </section>
     <section class="section-padding wow fadeInUp animate__fast" style="padding-bottom: 0px;padding-top: 0px;">
-        <div class="m-0 row imgGris2 seccionImagenBanner" style="background-color:#EDEDEE; padding: 6rem;">
+        <div class="m-0 row imgGris2 seccionImagenBanner" style="background-color:#EDEDEE; padding: 4rem;">
             <div class="col-md-12">
                 <div class="pb-5 row wow fadeInUp" data-wow-delay="0.1s">
                     <h1 style="color:#ffff">¡Quiero ser parte del programa!</h1>
 
-                    <h4 class="pt-5" style="color:#ffff;font-family: 'AdelleSans-Reg';font-size: 25px;">Da el primer paso tomando este diagnóstico que medirá tu nivel<br> de competencias en Transformación Digital.</h4>
+
+                    <h4 class="pt-5" style="color:#ffff;font-family: 'AdelleSans-Reg';font-size: 25px;">Completa este diagnóstico, el cual medirá tu nivel de<br> competencias en Programación Web para ser<br> considerado en la convocatoria.</h4>
                 </div>
                 <div class="row">
                     <div id="btnBanner">
-                        <a class="btn btn-rojo" href="<?= base_url('payments/1')  ?>">Aplicar</a>
+                        <a class="btn btn-rojo" href="<?= base_url('payments/1')  ?>">Postúlate para obtener una beca</a>
                     </div>
                 </div>
             </div>
@@ -347,12 +526,16 @@
     </section>
     <section class="py-5 pb-80 ">
         <div class="container">
+            <div class="section-header">
+                <div class="col-lg-12 text-center" style="padding-top: 5rem;">
+                    <h2 class="titulo-rojo">Promovemos la competitividad digital</h2>
+                </div>
+                <br>
+            </div>
             <div class="row py-5">
                 <div class="col-md-12">
                     <div class="pt-3 pb-5 text-center row wow fadeInUp">
-                        <h3 style="color:#050505;">Este Programa es una iniciativa del Gobierno de Puebla junto a EmTech Institute para promover el desarrollo<br>
-                        de talento y competitividad en el Estado a través de las tecnologías emergentes y el desarrollo de habilidades<br>
-                        tecnológicas transversales.</h3>
+                        <h3 style="color:#050505;">Este programa es una iniciativa del Gobierno de Puebla en alianza con Emtech Institute, con el objetivo  de impulsar en el Estado el desarrollo de talento en tecnologías emergentes y habilidades digitales transversales.</h3>
                     <br>  
                     </div>
                     <div class="row content pt-3 text-center equal-cols">

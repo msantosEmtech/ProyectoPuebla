@@ -115,7 +115,6 @@
                 <div class="section-padding"></div>
             </div>
         </section>
-
         <section id="programas" class="Section-padding wow fadeInUp animate__fast bg-emtech">
             <div class="container welcome-section">
                 <div class="section-header">
@@ -155,7 +154,6 @@
                 <div class="section-padding"></div>
             </div>
         </section>
-        
         <section class="more-features-area pb-80 bg-white">
             <div class="container">
                 <div class="text-center" style="padding-top: 5rem;">

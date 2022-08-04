@@ -74,10 +74,10 @@
                     <h2 style="color:#BB9F79">¿Por qué Tecnologías Emergentes?</h2>
                     <br>
                     <h4 class="font-Novreg" style="color:#212424">
-                        Este curso fundacional de Tecnologías Emergentes forma parte del <span class="font-Novbold">Programa de Capacitación y Desarrollo de<br>
-                        Competencias Digitales en Tecnologías Emergentes para Agentes del Ecosistema de Innovación,</span> una<br>
-                        iniciativa de EmTech Institute y el Gobierno de Puebla para promover el desarrollo de talento y competitividad<br>
-                        en el Estado a través de las tecnologías emergentes y el desarrollo de habilidades tecnológicas transversales.
+                        A lo largo de este curso fundacional del <span class="font-Novbold">Programa de Capacitación y Desarrollo de Competencias Digitales en<br>
+                        Tecnologías Emergentes para Agentes del Ecosistema de Innovación,</span> conocerás en detalle las principales<br>
+                        tecnologías emergentes que enmarcan la cuarta revolución industrial, así como su potencial y aplicación en<br>
+                        distintas industrias. 
                     </h4>
                     <br>
                     <div class="text-center pb-2" style="padding-top: 8rem;">
@@ -92,7 +92,7 @@
     <section class="more-features-area pb-80 bg-white">
         <div class="container py-5">
             <div class="pt-5 text-center">
-                <h2 style="color:#050505">¿Qué aprenderás en este programa?</h2>
+                <h2 style="color:#050505">¿Qué aprenderás en este curso?</h2>
                 <br>  
             </div>
             <div class="row content pt-5 text-center pb-80">
@@ -111,7 +111,7 @@
             </div>
             <div class="py-5 text-center">
                 <div id="btnBanner">
-                    <a class="btn btn-rojo" href="<?= base_url('assets/pdf/OnePager-1.pdf') ?>" download="OnePager-Creación de Experiencias">Descargar Brochure</a>
+                    <a class="btn btn-rojo" href="<?= base_url('assets/pdf/OnePager-1.pdf') ?>" download="OnePager-Creación de Experiencias">Ir al contenido</a>
                 </div>
             </div>
         </div>
@@ -120,9 +120,9 @@
         <div class="container py-5">
             <div class="row align-items-center flex-column-reverse flex-lg-row text-center pt-5">
                 <div class="col-lg-12">
-                    <h3 class="font-Novbold banner-descripcion" style="color:#050505">
-                    Este curso es para ti si quieres:                       
-                    </h3>
+                    <h2 class="font-Novbold banner-descripcion" style="color:#050505">
+                    Al final de este curso podrás:                       
+                    </h2>
                 </div>
             </div>
             <div class="row p-2" >
@@ -135,7 +135,7 @@
                                         <div class="col-12">
                                             <h3 class="font-Novbold banner-descripcion num-paso">01</h3>
                                             <h4 class="my-auto font-Novbold banner-descripcion" style="color:#9A2840;text-align:left ">
-                                                <br> -Implementar los principios de la metodología ágil para el diseño y presentación exitosa de la operación de un proyecto.
+                                                <br> Cuantificar el proceso tecnológico de nuestra sociedad, a partir de las distintas revoluciones industriales.
                                             </h4>
                                         </div>
                                     </div>
@@ -149,7 +149,7 @@
                                         <div class="col-12">
                                             <h3 class="font-Novbold banner-descripcion num-paso">02</h3>
                                             <h4 class=" font-Novbold banner-descripcion" style="color:#9A2840;text-align:left ">
-                                                <br>- Identificar los elementos críticos de un proyecto y saber cómo coordinar un equipo desde el rol del Scrum Máster.
+                                                <br> Identificar las aplicaciones fundamentales de las tecnologías emergentes de la 4ª Revolución Industrial.
                                             </h4>
                                         </div>
                                     </div>
@@ -163,7 +163,7 @@
                                         <div class="col-12">
                                             <h3 class="font-Novbold banner-descripcion num-paso">03</h3>
                                             <h4 class="pr-2 font-Novbold banner-descripcion" style="color:#9A2840;text-align:left ">
-                                                <br>- Proponer una planeación para la gestión de un proyecto considerando el total de actividades que hay que realizar. 
+                                                <br> Proponer el uso de distintas tecnologías emergentes para la optimización de procesos. 
                                             </h4>
                                         </div>
                                     </div>
@@ -175,41 +175,14 @@
             </div>
         </div>
     </section>
-    <section class="more-features-area pb-80 bg-white">
-        <div class="container py-5">
-            <div class="pt-5 text-center">
-                <h2 style="color:#050505">¿Quiénes pueden tomar este curso?</h2>
-                <br>  
-            </div>
-            <div class="row content pt-5 text-center pb-80">
-                <div class="col-lg-4 col-md-4 col-xs-4">
-                    <img class="pt-2 mx-auto d-block" id="iconModulo1" style="cursor: pointer;width: 350px;padding-bottom: 1rem;" src="<?=base_url('assets/images/transformacionDigital/imgChicaManosArriba.jpg')?>" alt="Icono" />
-                    <p style="padding-left:1rem;padding-right:1rem;line-height:115%;"><br><br>Haber sido seleccionado como ganador de una<br> de las becas del Programa de Capacitación y<br> Desarrollo de Competencias Digitales en<br> Tecnologías Emergentes.</p>
-                </div> 
-                <div class="col-lg-4 col-md-4 col-xs-4">
-                    <img class="pt-2 mx-auto d-block" id="iconModulo1" style="cursor: pointer;width: 350px;padding-bottom: 1rem;" src="<?=base_url('assets/images/transformacionDigital/imgDedoTecnologia.jpg')?>" alt="Icono" />
-                    <p style="padding-left:1rem;padding-right:1rem;line-height:115%;"><br><br>Tener interés en la aplicación de tecnologías<br> emergentes en el mercado laboral actual.</p>
-                </div>    
-                <div class="col-lg-4 col-md-4 col-xs-4">
-                    <img class="pt-2 mx-auto d-block" id="iconModulo1" style="cursor: pointer;width: 350px;padding-bottom: 1rem;" src="<?=base_url('assets/images/transformacionDigital/imgLaptopBlanca.jpg')?>" alt="Icono" />
-                    <p style="padding-left:1rem;padding-right:1rem;line-height:115%;"><br><br>Obtener un nivel principiante o intermedio en el<br> diagnóstico de competencias.</p>
-                </div>
-            </div>
-            <div class="py-5 text-center">
-                <div id="btnBanner">
-                    <a class="btn btn-rojo" href="<?= base_url('assets/pdf/OnePager-1.pdf') ?>" download="OnePager-Creación de Experiencias">Postúlate para obtener una beca</a>
-                </div>
-            </div>
-        </div>
-    </section>
-    <section class="pt-5 more-features-area pb-80 bg-emtech">
+    <section class="pt-5 more-features-area pb-80 bg-white">
         <div class="container">
             <div class="text-center" style="padding-top: 5rem;">
-                <h2  class="font-Novbold" style="color:#000000;">Este Programa está preparado para que recibas lo<br> mejor de dos mundos en cuanto enseñanza</h2>
+                <h2  class="font-Novbold" style="color:#000000;">Aprende con</h2>
                 <br>  
             </div>
             <div class="row equal-cols content pt-5 text-center tarjetas-aprende">
-                <div class="col-md-6 pb-3" >
+                <div class="col-md-4 pb-3" >
                     <div class="card detalles-card" style="border-radius: 12px;border: none;box-shadow: 0px 2px 14px #E5E6E8;">
                         <div class="card-body">
                             <img class="pt-2 pb-3 mx-auto d-block" id="iconModulo1" style="cursor: pointer;width: 106px;" src="<?=base_url('assets/images/iconBarreras2.svg')?>" alt="Icono" width = "100"/>
@@ -221,13 +194,25 @@
                         </div>
                     </div>
                 </div>
-                <div class="col-md-6 pb-3" >
+                <div class="col-md-4 pb-3" >
                     <div class="card detalles-card" style="border-radius: 12px;border: none;box-shadow: 0px 2px 14px #E5E6E8;">
                         <div class="card-body">
                             <img class="pt-2 pb-3 mx-auto d-block" id="iconModulo1" style="cursor: pointer;width: 100px;" src="<?=base_url('assets/images/iconBarreras1.svg')?>" alt="Icono" width = "100"/>
                             <p style="line-height:115%;">
                                 <br>
-                                De la mano de un tutor podrás despejar<br> todas tus dudas y tener una experiencia<br> más personalizada. 
+                                Foros de preguntas y respuestas que te<br> ayudan a despejar todas tus dudas.
+                                <br><br> 
+                            </p>
+                        </div>
+                    </div>
+                </div>
+                <div class="col-md-4 pb-3" >
+                    <div class="card detalles-card" style="border-radius: 12px;border: none;box-shadow: 0px 2px 14px #E5E6E8;">
+                        <div class="card-body">
+                            <img class="pt-2 pb-3 mx-auto d-block" id="iconModulo1" style="cursor: pointer;width: 100px;" src="<?=base_url('assets/images/iconBarreras3.svg')?>" alt="Icono" width = "100"/>
+                            <p style="line-height:115%;">
+                                <br>
+                                Actividades interactivas que te permiten<br> reforzar tu aprendizaje. 
                                 <br><br> 
                             </p>
                         </div>
@@ -236,11 +221,38 @@
             </div>
         </div>
     </section>
+    <section class="more-features-area pb-80 bg-emtech">
+        <div class="container py-5">
+            <div class="pt-5 text-center">
+                <h2 style="color:#050505">Requisitos para tomar este curso</h2>
+                <br>  
+            </div>
+            <div class="row content pt-5 text-center pb-80">
+                <div class="col-lg-4 col-md-4 col-xs-4">
+                    <img class="pt-2 mx-auto d-block" id="iconModulo1" style="cursor: pointer;width: 350px;padding-bottom: 1rem;" src="<?=base_url('assets/images/transformacionDigital/imgChicaManosArriba.jpg')?>" alt="Icono" />
+                    <p style="padding-left:1rem;padding-right:1rem;line-height:115%;"><br><br>Haber sido seleccionado como ganador de una<br> de las becas del programa.</p>
+                </div> 
+                <div class="col-lg-4 col-md-4 col-xs-4">
+                    <img class="pt-2 mx-auto d-block" id="iconModulo1" style="cursor: pointer;width: 350px;padding-bottom: 1rem;" src="<?=base_url('assets/images/transformacionDigital/imgDedoTecnologia.jpg')?>" alt="Icono" />
+                    <p style="padding-left:1rem;padding-right:1rem;line-height:115%;"><br><br>Tener interés en la aplicación de tecnologías<br> emergentes en el mercado laboral actual.</p>
+                </div>    
+                <div class="col-lg-4 col-md-4 col-xs-4">
+                    <img class="pt-2 mx-auto d-block" id="iconModulo1" style="cursor: pointer;width: 350px;padding-bottom: 1rem;" src="<?=base_url('assets/images/transformacionDigital/imgLaptopBlanca.jpg')?>" alt="Icono" />
+                    <p style="padding-left:1rem;padding-right:1rem;line-height:115%;"><br><br>Obtener un nivel básico o intermedio en el<br> diagnóstico de competencias tecnológicas.</p>
+                </div>
+            </div>
+            <div class="py-5 text-center">
+                <div id="btnBanner">
+                    <a class="btn btn-rojo" href="<?= base_url('assets/pdf/OnePager-1.pdf') ?>" download="OnePager-Creación de Experiencias">Postúlate para obtener una beca</a>
+                </div>
+            </div>
+        </div>
+    </section>
     <section id="faqs" class="section-padding faq-area-four wow fadeInUp animate__fast">
         <div class="container py-5">
             <div class="row">
                 <div class="col-lg-7 col-xs-12">
-                    <h3 class="font-Novreg banner-descripcion" style="color:#992740">
+                    <h3 class="font-Novbold banner-descripcion" style="color:#992740">
                         Contenido
                     </h3>
                     <br>
@@ -330,39 +342,44 @@
         </div>
     </section>
     <section class="section-padding wow fadeInUp animate__fast" style="padding-bottom: 0px;padding-top: 0px;">
-        <div class="m-0 row imgGris2 seccionImagenBanner" style="background-color:#EDEDEE; padding: 6rem;">
+        <div class="m-0 row imgGris2 seccionImagenBanner" style="background-color:#EDEDEE; padding: 4rem;">
             <div class="col-md-12">
                 <div class="pb-5 row wow fadeInUp" data-wow-delay="0.1s">
                     <h1 style="color:#ffff">¡Quiero ser parte del programa!</h1>
 
-                    <h4 class="pt-5" style="color:#ffff;font-family: 'AdelleSans-Reg';font-size: 25px;">Da el primer paso tomando este diagnóstico que medirá tu nivel<br> de competencias en Transformación Digital.</h4>
+
+                    <h4 class="pt-5" style="color:#ffff;font-family: 'AdelleSans-Reg';font-size: 25px;">Completa este diagnóstico, el cual medirá tu nivel de<br> competencias en Tecnologías Emergentes para ser<br> considerado en la convocatoria.</h4>
                 </div>
                 <div class="row">
                     <div id="btnBanner">
-                        <a class="btn btn-rojo" href="<?= base_url('payments/1')  ?>">Aplicar</a>
+                        <a class="btn btn-rojo" href="<?= base_url('payments/1')  ?>">Postúlate para obtener una beca</a>
                     </div>
                 </div>
             </div>
         </div>
     </section>
     <section class="py-5 pb-80 ">
-        <div class="container">
-            <div class="row py-5">
-                <div class="col-md-12">
-                    <div class="pt-3 pb-5 text-center row wow fadeInUp">
-                        <h3 style="color:#050505;">Este Programa es una iniciativa del Gobierno de Puebla junto a EmTech Institute para promover el desarrollo<br>
-                        de talento y competitividad en el Estado a través de las tecnologías emergentes y el desarrollo de habilidades<br>
-                        tecnológicas transversales.</h3>
-                    <br>  
+            <div class="container">
+                <div class="section-header">
+                    <div class="col-lg-12 text-center" style="padding-top: 5rem;">
+                        <h2 class="titulo-rojo">Promovemos la competitividad digital</h2>
                     </div>
-                    <div class="row content pt-3 text-center equal-cols">
-                        <div class="col-md-12 pb-2" >
-                            <img class="pt-2 pb-3 mx-auto d-block" id="iconModulo1" style="cursor: pointer;width: 75%;" src="<?=base_url('assets/images/logosEmpresas2.png')?>"/>
+                    <br>
+                </div>
+                <div class="row py-5">
+                    <div class="col-md-12">
+                        <div class="pt-3 pb-5 text-center row wow fadeInUp">
+                            <h3 style="color:#050505;">Este programa es una iniciativa del Gobierno de Puebla en alianza con Emtech Institute, con el objetivo  de impulsar en el Estado el desarrollo de talento en tecnologías emergentes y habilidades digitales transversales.</h3>
+                        <br>  
+                        </div>
+                        <div class="row content pt-3 text-center equal-cols">
+                            <div class="col-md-12 pb-2" >
+                                <img class="pt-2 pb-3 mx-auto d-block" id="iconModulo1" style="cursor: pointer;width: 75%;" src="<?=base_url('assets/images/logosEmpresas2.png')?>"/>
+                            </div>
                         </div>
                     </div>
                 </div>
             </div>
-        </div>
-    </section>
+        </section>
     
 </main>
