@@ -106,7 +106,7 @@
                 </div>    
                 <div class="col-lg-4 col-md-4 col-xs-4">
                     <img class="pt-2 mx-auto d-block" id="iconModulo1" style="cursor: pointer;width: 100px;padding-bottom: 1rem;" src="<?=base_url('assets/images/MetodologiasAgiles/circuloRojo3.svg')?>" alt="Icono" />
-                    <p style="padding-left:1rem;padding-right:1rem;line-height:115%;"><br><br>Las principales aplicaciones de las<br> Las fases para implementar un proyecto ágil,<br> a lo largo de todo su ciclo de vida que te<br> ayude a alcanzar los objetivos planteados.</p>
+                    <p style="padding-left:1rem;padding-right:1rem;line-height:115%;"><br><br>Las fases para implementar un proyecto ágil,<br> a lo largo de todo su ciclo de vida que te<br> ayude a alcanzar los objetivos planteados.</p>
                 </div>
             </div>
             <div class="py-5 text-center">
@@ -133,7 +133,7 @@
                                 <div id="paso1m" class="" style="text-align:left ">
                                     <div class="row">
                                         <div class="col-12">
-                                            <h3 class="font-Novbold banner-descripcion num-paso">01</h3>
+                                            <span class="pb-80"></span>
                                             <h4 class="my-auto font-Novbold banner-descripcion" style="color:#9A2840;text-align:left ">
                                                 <br> Implementar los principios de una Metodología Ágil para el diseño y presentación exitosa de la operación de un proyecto.
                                             </h4>
@@ -147,7 +147,7 @@
                                 <div id="paso1m" class="" style="text-align:left">
                                     <div class="row">
                                         <div class="col-12">
-                                            <h3 class="font-Novbold banner-descripcion num-paso">02</h3>
+                                            <span class="pb-80"></span>
                                             <h4 class=" font-Novbold banner-descripcion" style="color:#9A2840;text-align:left ">
                                                 <br> Identificar los elementos críticos de un proyecto y saber cómo coordinar un equipo desde el rol del Scrum Máster.
                                             </h4>
@@ -161,7 +161,7 @@
                                 <div id="paso1m" class="" style="text-align:left ">
                                     <div class="row">
                                         <div class="col-12">
-                                            <h3 class="font-Novbold banner-descripcion num-paso">03</h3>
+                                            <span class="pb-80"></span>
                                             <h4 class="pr-2 font-Novbold banner-descripcion" style="color:#9A2840;text-align:left ">
                                                 <br> Proponer una planeación para la gestión de un proyecto considerando el total de actividades que hay que realizar.  
                                             </h4>
@@ -188,7 +188,7 @@
                             <img class="pt-2 pb-3 mx-auto d-block" id="iconModulo1" style="cursor: pointer;width: 106px;" src="<?=base_url('assets/images/iconBarreras2.svg')?>" alt="Icono" width = "100"/>
                             <p style="line-height:115%;">
                                 <br>
-                                Lecciones explicativas grabadas para<br> profundizar tu conocimiento.
+                                Lecciones interactivas para profundizar<br> tu conocimiento.
                                 <br><br>
                             </p>
                         </div>
@@ -229,15 +229,15 @@
             </div>
             <div class="row content pt-5 text-center pb-80">
                 <div class="col-lg-4 col-md-4 col-xs-4">
-                    <img class="pt-2 mx-auto d-block" id="iconModulo1" style="cursor: pointer;width: 350px;padding-bottom: 1rem;" src="<?=base_url('assets/images/MetodologiasAgiles/imgManosLaptop.jpg')?>" alt="Icono" />
+                    <img class="pt-2 mx-auto d-block" id="iconModulo1" style="cursor: pointer;width: 350px;padding-bottom: 1rem;" src="<?=base_url('assets/images/MetodologiasAgiles/imgManosLaptop.png')?>" alt="Icono" />
                     <p style="padding-left:1rem;padding-right:1rem;line-height:115%;"><br><br>Haber sido seleccionado luego de completar<br> de manera exitosa el curso de<br> Tecnologías Emergentes.
                 </div> 
                 <div class="col-lg-4 col-md-4 col-xs-4">
-                    <img class="pt-2 mx-auto d-block" id="iconModulo1" style="cursor: pointer;width: 350px;padding-bottom: 1rem;" src="<?=base_url('assets/images/MetodologiasAgiles/imgManoAnalisis.jpg')?>" alt="Icono" />
+                    <img class="pt-2 mx-auto d-block" id="iconModulo1" style="cursor: pointer;width: 350px;padding-bottom: 1rem;" src="<?=base_url('assets/images/MetodologiasAgiles/imgManoAnalisis.png')?>" alt="Icono" />
                     <p style="padding-left:1rem;padding-right:1rem;line-height:115%;"><br><br>Tener interés en los esquemas innovadores de<br> trabajo y colaboración del mercado laboral actual. 
                 </div>    
                 <div class="col-lg-4 col-md-4 col-xs-4">
-                    <img class="pt-2 mx-auto d-block" id="iconModulo1" style="cursor: pointer;width: 350px;padding-bottom: 1rem;" src="<?=base_url('assets/images/MetodologiasAgiles/imgManosLaptop2.jpg')?>" alt="Icono" />
+                    <img class="pt-2 mx-auto d-block" id="iconModulo1" style="cursor: pointer;width: 350px;padding-bottom: 1rem;" src="<?=base_url('assets/images/MetodologiasAgiles/imgManosLaptop2.png')?>" alt="Icono" />
                     <p style="padding-left:1rem;padding-right:1rem;line-height:115%;"><br><br>Obtener un nivel básico o intermedio en el<br> diagnóstico de competencias tecnológicas.
                 </div>
             </div>
