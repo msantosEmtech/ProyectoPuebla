@@ -231,15 +231,15 @@
             </div>
             <div class="row content pt-5 text-center pb-80">
                 <div class="col-lg-4 col-md-4 col-xs-4">
-                    <img class="pt-2 mx-auto d-block" id="iconModulo1" style="cursor: pointer;width: 350px;padding-bottom: 1rem;" src="<?=base_url('assets/images/programacionWeb/imgTeclado.jpg')?>" alt="Icono" />
+                    <img class="pt-2 mx-auto d-block" id="iconModulo1" style="cursor: pointer;width: 350px;padding-bottom: 1rem;" src="<?=base_url('assets/images/programacionWeb/imgTeclado.png')?>" alt="Icono" />
                     <p style="padding-left:1rem;padding-right:1rem;line-height:115%;"><br><br>Haber sido seleccionado luego de completar de<br> manera exitosa los cursos de Tecnologías<br> Emergentes y Metodologías Ágiles.
                 </div> 
                 <div class="col-lg-4 col-md-4 col-xs-4">
-                    <img class="pt-2 mx-auto d-block" id="iconModulo1" style="cursor: pointer;width: 350px;padding-bottom: 1rem;" src="<?=base_url('assets/images/programacionWeb/imgCodigo.jpg')?>" alt="Icono" />
-                    <p style="padding-left:1rem;padding-right:1rem;line-height:115%;"><br><br>Tener interés  en<br> iniciar tu formación en desarrollo web. 
+                    <img class="pt-2 mx-auto d-block" id="iconModulo1" style="cursor: pointer;width: 350px;padding-bottom: 1rem;" src="<?=base_url('assets/images/programacionWeb/imgCodigo.png')?>" alt="Icono" />
+                    <p style="padding-left:1rem;padding-right:1rem;line-height:115%;"><br><br>Tener interés  en iniciar tu formación en<br> desarrollo web.  
                 </div>    
                 <div class="col-lg-4 col-md-4 col-xs-4">
-                    <img class="pt-2 mx-auto d-block" id="iconModulo1" style="cursor: pointer;width: 350px;padding-bottom: 1rem;" src="<?=base_url('assets/images/programacionWeb/imgProgramador.jpg')?>" alt="Icono" />
+                    <img class="pt-2 mx-auto d-block" id="iconModulo1" style="cursor: pointer;width: 350px;padding-bottom: 1rem;" src="<?=base_url('assets/images/programacionWeb/imgProgramador.png')?>" alt="Icono" />
                     <p style="padding-left:1rem;padding-right:1rem;line-height:115%;"><br><br>Obtener un nivel básico o intermedio en el<br> diagnóstico de competencias tecnológicas.
                 </div>
             </div>
@@ -417,7 +417,7 @@
                                         </li>
                                         <li class="list-group-item px-3 border-0">
                                             <i class="fas fa-circle" style="color: #BB9F79;"></i>
-                                            <span> Boostrap </span>
+                                            <span> Bootstrap </span>
                                         </li>
                                     </ul>
                                 </div>
@@ -437,7 +437,7 @@
                                     <ul class="list-group list-group-light">
                                         <li class="list-group-item px-3 border-0">
                                             <i class="fas fa-circle" style="color: #BB9F79;"></i>
-                                            <span> Complilación </span>
+                                            <span> Compilación </span>
                                         </li>
                                         <li class="list-group-item px-3 border-0">
                                             <i class="fas fa-circle" style="color: #BB9F79;"></i>
@@ -453,7 +453,7 @@
                                         </li>
                                         <li class="list-group-item px-3 border-0">
                                             <i class="fas fa-circle" style="color: #BB9F79;"></i>
-                                            <span> Extena </span>
+                                            <span> Extend </span>
                                         </li>
                                     </ul>
                                 </div>
@@ -514,7 +514,7 @@
                     <h1 style="color:#ffff">¡Quiero ser parte del programa!</h1>
 
 
-                    <h4 class="pt-5" style="color:#ffff;font-family: 'AdelleSans-Reg';font-size: 25px;">Completa este diagnóstico, el cual medirá tu nivel de<br> competencias en Programación Web para ser<br> considerado en la convocatoria.</h4>
+                    <h4 class="pt-5" style="color:#ffff;font-family: 'AdelleSans-Reg';font-size: 25px;">Conoce la convocatoria, acepta las condiciones,<br> realiza el diagnóstico que medirá tu nivel de<br> competencias.</h4>
                 </div>
                 <div class="row">
                     <div id="btnBanner">
