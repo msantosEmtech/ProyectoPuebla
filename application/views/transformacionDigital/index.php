@@ -133,7 +133,7 @@
                                 <div id="paso1m" class="" style="text-align:left ">
                                     <div class="row">
                                         <div class="col-12">
-                                            <h3 class="font-Novbold banner-descripcion num-paso">01</h3>
+                                            <span class="pb-80"></span>
                                             <h4 class="my-auto font-Novbold banner-descripcion" style="color:#9A2840;text-align:left ">
                                                 <br> Cuantificar el proceso tecnológico de nuestra sociedad, a partir de las distintas revoluciones industriales.
                                             </h4>
@@ -147,7 +147,7 @@
                                 <div id="paso1m" class="" style="text-align:left">
                                     <div class="row">
                                         <div class="col-12">
-                                            <h3 class="font-Novbold banner-descripcion num-paso">02</h3>
+                                            <span class="pb-80"></span>
                                             <h4 class=" font-Novbold banner-descripcion" style="color:#9A2840;text-align:left ">
                                                 <br> Identificar las aplicaciones fundamentales de las tecnologías emergentes de la 4ª Revolución Industrial.
                                             </h4>
@@ -161,7 +161,7 @@
                                 <div id="paso1m" class="" style="text-align:left ">
                                     <div class="row">
                                         <div class="col-12">
-                                            <h3 class="font-Novbold banner-descripcion num-paso">03</h3>
+                                            <span class="pb-80"></span>
                                             <h4 class="pr-2 font-Novbold banner-descripcion" style="color:#9A2840;text-align:left ">
                                                 <br> Proponer el uso de distintas tecnologías emergentes para la optimización de procesos. 
                                             </h4>
@@ -229,15 +229,15 @@
             </div>
             <div class="row content pt-5 text-center pb-80">
                 <div class="col-lg-4 col-md-4 col-xs-4">
-                    <img class="pt-2 mx-auto d-block" id="iconModulo1" style="cursor: pointer;width: 350px;padding-bottom: 1rem;" src="<?=base_url('assets/images/transformacionDigital/imgChicaManosArriba.jpg')?>" alt="Icono" />
+                    <img class="pt-2 mx-auto d-block" id="iconModulo1" style="cursor: pointer;width: 350px;padding-bottom: 1rem;" src="<?=base_url('assets/images/transformacionDigital/imgChicaManosArriba.png')?>" alt="Icono" />
                     <p style="padding-left:1rem;padding-right:1rem;line-height:115%;"><br><br>Haber sido seleccionado como ganador de una<br> de las becas del programa.</p>
                 </div> 
                 <div class="col-lg-4 col-md-4 col-xs-4">
-                    <img class="pt-2 mx-auto d-block" id="iconModulo1" style="cursor: pointer;width: 350px;padding-bottom: 1rem;" src="<?=base_url('assets/images/transformacionDigital/imgDedoTecnologia.jpg')?>" alt="Icono" />
+                    <img class="pt-2 mx-auto d-block" id="iconModulo1" style="cursor: pointer;width: 350px;padding-bottom: 1rem;" src="<?=base_url('assets/images/transformacionDigital/imgDedoTecnologia.png')?>" alt="Icono" />
                     <p style="padding-left:1rem;padding-right:1rem;line-height:115%;"><br><br>Tener interés en la aplicación de tecnologías<br> emergentes en el mercado laboral actual.</p>
                 </div>    
                 <div class="col-lg-4 col-md-4 col-xs-4">
-                    <img class="pt-2 mx-auto d-block" id="iconModulo1" style="cursor: pointer;width: 350px;padding-bottom: 1rem;" src="<?=base_url('assets/images/transformacionDigital/imgLaptopBlanca.jpg')?>" alt="Icono" />
+                    <img class="pt-2 mx-auto d-block" id="iconModulo1" style="cursor: pointer;width: 350px;padding-bottom: 1rem;" src="<?=base_url('assets/images/transformacionDigital/imgLaptopBlanca.png')?>" alt="Icono" />
                     <p style="padding-left:1rem;padding-right:1rem;line-height:115%;"><br><br>Obtener un nivel básico o intermedio en el<br> diagnóstico de competencias tecnológicas.</p>
                 </div>
             </div>
@@ -342,13 +342,13 @@
         </div>
     </section>
     <section class="section-padding wow fadeInUp animate__fast" style="padding-bottom: 0px;padding-top: 0px;">
-        <div class="m-0 row imgGris2 seccionImagenBanner" style="background-color:#EDEDEE; padding: 4rem;">
+        <div class="m-0 row imgGris2 seccionImagenBanner" style="background-color:#EDEDEE; padding: 5rem;">
             <div class="col-md-12">
                 <div class="pb-5 row wow fadeInUp" data-wow-delay="0.1s">
                     <h1 style="color:#ffff">¡Quiero ser parte del programa!</h1>
 
 
-                    <h4 class="pt-5" style="color:#ffff;font-family: 'AdelleSans-Reg';font-size: 25px;">Completa este diagnóstico, el cual medirá tu nivel de<br> competencias en Tecnologías Emergentes para ser<br> considerado en la convocatoria.</h4>
+                    <h4 class="pt-5" style="color:#ffff;font-family: 'AdelleSans-Reg';font-size: 25px;">Conoce la convocatoria, acepta las condiciones, realiza el<br> diagnóstico que medirá tu nivel de competencias.</h4>
                 </div>
                 <div class="row">
                     <div id="btnBanner">

@@ -148,7 +148,7 @@
                     <div class="col-lg-3 col-md-3 col-xs-3">
                         <img class=" pt-2 mx-auto d-block" src="assets/images/icon-actores.svg" alt="Logo Image" width="45%"/>
                         <h5 class="titulo-modelos">Contacto con <br>actores clave</h5>
-                        <p class="descripcion-modelos">Que brinda un acercamiento a la industria<br> y sus oportunidades.</p>
+                        <p class="descripcion-modelos">Que brinda un acercamiento a la industria y sus oportunidades.</p>
                     </div>                                                          
                 </div>
                 <div class="section-padding"></div>
@@ -162,9 +162,9 @@
                 </div>
                 <div class="row text-center pt-5">
                     <div class="col-md-4 col-ls-4 pr-0">
-                        <img src="assets/images/comp1.svg" alt="Testimonial Image" width="90%">
+                        <img src="<?= base_url('assets/images/comp1.svg') ?>" alt="Testimonial Image" style="position: relative;width: 95%;">
                     </div>
-                    <div class="col-md-8 col-ls-8 parrafo-cuadro-gris align-self-center my-auto" style="align-items: center;background:#EDEFF2;margin-left: -5.25rem; padding: 2rem;padding-top:1rem;margin-right:4rem;">
+                    <div class="col-md-8 col-ls-8 parrafo-cuadro-gris align-self-center my-auto" style="align-items: center;background:#EDEFF2;margin-left: -4.25rem; padding: 3rem;">
                         <p class="post-para" style="height:4rem;width:38rem;padding-left:5rem;padding-right:5rem;text-align: left;">
                             Al terminar cada curso de manera satisfactoria, Emtech Institute te<br>
                             otorgará un certificado digital que valida el dominio en los temas<br>
@@ -181,10 +181,8 @@
                         <h2 class="py-5 font-Novbold" style="color: #050505;">¡Sé parte de la transformación profesional!</h2>
                         <br>
                         <h4 class="font-Novreg" style="color:#212424">
-                            Este Programa del Gobierno de Puebla está diseñado para<br>
-                            jóvenes universitarios o recién egresados que quieran darle<br>
-                            un valor agregado a su carrera e incrementar su<br> 
-                            conocimiento a través de:
+                            Apórtale un valor agregado a tu carrera profesional e<br>
+                            incrementa tu conocimiento a través de:
                         </h4>
                         <br>
                         <li class="list-group-item px-3 border-0" style="background-color: #EDEDEE;line-height:1.456rem"><i class="fas fa-circle" style="color: #BB9F79;"></i><span class="font-Novbold" style="padding-left: 1rem;"> Las tendencias e innovaciones más actuales del<br> <span class="font-Novbold" style="padding-left: 2rem;">mercado laboral.</span></span></li>
